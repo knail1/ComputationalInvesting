@@ -1,0 +1,2309 @@
+/usr/local/bin/python2.7 /Users/oansari2/Desktop/data.local/personal/coding/QuantitativeFinance/Coursera-ComputationalInvesting/CompInvesting-code/CompInvestI-Homework-1.py
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.0, 0.5, 0.3]
+Sharpe Ratio:  -0.568359386442
+Volatility (stdev of daily returns):  0.0244692664399
+Average Daily Return: -0.000876079899771
+Cumulative Return:  [ 0.74096116]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.0, 0.2, 0.2]
+Sharpe Ratio:  -0.72783870813
+Volatility (stdev of daily returns):  0.0224578378534
+Average Daily Return: -0.00102968128702
+Cumulative Return:  [ 0.72385602]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.0, 0.0, 0.4]
+Sharpe Ratio:  -0.55135797649
+Volatility (stdev of daily returns):  0.0207304260158
+Average Daily Return: -0.000720015123367
+Cumulative Return:  [ 0.79188647]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.5, 0.4]
+Sharpe Ratio:  -0.478471949481
+Volatility (stdev of daily returns):  0.0241546442861
+Average Daily Return: -0.000728042710859
+Cumulative Return:  [ 0.77074887]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.8, 0.1, 0.0]
+Sharpe Ratio:  -0.314379866778
+Volatility (stdev of daily returns):  0.0207642649213
+Average Daily Return: -0.000411216958324
+Cumulative Return:  [ 0.85412913]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.2, 0.1, 0.3]
+Sharpe Ratio:  -0.537478389075
+Volatility (stdev of daily returns):  0.0198293629049
+Average Daily Return: -0.000671381697009
+Cumulative Return:  [ 0.8042765]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.2, 0.8, 0.0]
+Sharpe Ratio:  -0.537563636267
+Volatility (stdev of daily returns):  0.0300269617359
+Average Daily Return: -0.00101681279651
+Cumulative Return:  [ 0.68532074]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.4, 0.3, 0.0]
+Sharpe Ratio:  -0.631863392615
+Volatility (stdev of daily returns):  0.0220313277688
+Average Daily Return: -0.0008769273117
+Cumulative Return:  [ 0.75286359]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.1, 0.2, 0.3]
+Sharpe Ratio:  -0.594439603585
+Volatility (stdev of daily returns):  0.020908903834
+Average Daily Return: -0.000782958477269
+Cumulative Return:  [ 0.77684635]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.5, 0.2, 0.0]
+Sharpe Ratio:  -0.574369176275
+Volatility (stdev of daily returns):  0.021031195689
+Average Daily Return: -0.000760947718547
+Cumulative Return:  [ 0.78029374]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.0, 0.3, 0.4]
+Sharpe Ratio:  -0.54380392702
+Volatility (stdev of daily returns):  0.0218199459249
+Average Daily Return: -0.000747473394528
+Cumulative Return:  [ 0.77920391]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.7, 0.0, 0.0]
+Sharpe Ratio:  -0.412584771394
+Volatility (stdev of daily returns):  0.0200179766387
+Average Daily Return: -0.000520275172291
+Cumulative Return:  [ 0.83515403]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.2, 0.5, 0.0]
+Sharpe Ratio:  -0.698462921522
+Volatility (stdev of daily returns):  0.0249643122787
+Average Daily Return: -0.00109840548348
+Cumulative Return:  [ 0.6980033]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.0, 0.2, 0.5]
+Sharpe Ratio:  -0.466244186743
+Volatility (stdev of daily returns):  0.0206688050795
+Average Daily Return: -0.000607055683009
+Cumulative Return:  [ 0.81321913]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.4, 0.4, 0.1]
+Sharpe Ratio:  -0.505475005818
+Volatility (stdev of daily returns):  0.0227470852966
+Average Daily Return: -0.000724311151528
+Cumulative Return:  [ 0.77842378]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.5, 0.0, 0.1]
+Sharpe Ratio:  -0.495181716851
+Volatility (stdev of daily returns):  0.0195572306622
+Average Daily Return: -0.000610058789705
+Cumulative Return:  [ 0.81853648]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.4, 0.4, 0.0]
+Sharpe Ratio:  -0.596585521832
+Volatility (stdev of daily returns):  0.0231372122235
+Average Daily Return: -0.000869527795397
+Cumulative Return:  [ 0.74863607]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.2, 0.7]
+Sharpe Ratio:  -0.263113794887
+Volatility (stdev of daily returns):  0.0202398046423
+Average Daily Return: -0.000335466891448
+Cumulative Return:  [ 0.87279454]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.0, 0.5, 0.2]
+Sharpe Ratio:  -0.654080772068
+Volatility (stdev of daily returns):  0.0249226821512
+Average Daily Return: -0.001026894649
+Cumulative Return:  [ 0.71117346]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.3, 0.5, 0.1]
+Sharpe Ratio:  -0.542014581875
+Volatility (stdev of daily returns):  0.0242272523883
+Average Daily Return: -0.000827208262692
+Cumulative Return:  [ 0.75099363]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.3, 0.6]
+Sharpe Ratio:  -0.276518563689
+Volatility (stdev of daily returns):  0.0209723842264
+Average Daily Return: -0.000365318636156
+Cumulative Return:  [ 0.86198194]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.6, 0.4, 0.0]
+Sharpe Ratio:  -0.426904512794
+Volatility (stdev of daily returns):  0.023309618754
+Average Daily Return: -0.000626852909164
+Cumulative Return:  [ 0.79504132]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.5, 0.0, 0.4]
+Sharpe Ratio:  -0.189373892484
+Volatility (stdev of daily returns):  0.0184358141098
+Average Daily Return: -0.000219928826044
+Cumulative Return:  [ 0.9078996]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.7, 0.1, 0.2, 0.0]
+Sharpe Ratio:  -0.827442450356
+Volatility (stdev of daily returns):  0.0232917890678
+Average Daily Return: -0.00121406062989
+Cumulative Return:  [ 0.68748324]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.4, 0.1, 0.2]
+Sharpe Ratio:  -0.482703950631
+Volatility (stdev of daily returns):  0.0195583744564
+Average Daily Return: -0.000594721089781
+Cumulative Return:  [ 0.82089404]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.9, 0.0]
+Sharpe Ratio:  -0.596671511607
+Volatility (stdev of daily returns):  0.0327301283253
+Average Daily Return: -0.00123021987877
+Cumulative Return:  [ 0.63468797]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.8, 0.1]
+Sharpe Ratio:  -0.523124916703
+Volatility (stdev of daily returns):  0.0298756602848
+Average Daily Return: -0.000984515704643
+Cumulative Return:  [ 0.69190582]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.6, 0.3, 0.0]
+Sharpe Ratio:  -0.460539573114
+Volatility (stdev of daily returns):  0.0220344005353
+Average Daily Return: -0.000639245858944
+Cumulative Return:  [ 0.79926884]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.2, 0.6, 0.1]
+Sharpe Ratio:  -0.565739697389
+Volatility (stdev of daily returns):  0.0259805290862
+Average Daily Return: -0.000925900619216
+Cumulative Return:  [ 0.72356349]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.4, 0.5]
+Sharpe Ratio:  -0.350738979688
+Volatility (stdev of daily returns):  0.0222806442079
+Average Daily Return: -0.000492279224152
+Cumulative Return:  [ 0.82796672]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.1, 0.6, 0.2]
+Sharpe Ratio:  -0.547157583213
+Volatility (stdev of daily returns):  0.0259027564049
+Average Daily Return: -0.000892808124343
+Cumulative Return:  [ 0.73014856]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.2, 0.2, 0.0]
+Sharpe Ratio:  -0.783316205418
+Volatility (stdev of daily returns):  0.0223623937137
+Average Daily Return: -0.00110345627942
+Cumulative Return:  [ 0.71068586]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.4, 0.1, 0.1]
+Sharpe Ratio:  -0.577210447679
+Volatility (stdev of daily returns):  0.0200947290635
+Average Daily Return: -0.00073066123727
+Cumulative Return:  [ 0.79110634]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.8, 0.1, 0.0, 0.1]
+Sharpe Ratio:  -0.730015695235
+Volatility (stdev of daily returns):  0.0223918644451
+Average Daily Return: -0.00102972719709
+Cumulative Return:  [ 0.72572598]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.6, 0.0, 0.4]
+Sharpe Ratio:  -0.0981602277093
+Volatility (stdev of daily returns):  0.0186513934714
+Average Daily Return: -0.000115331136289
+Cumulative Return:  [ 0.93110222]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.0, 0.5, 0.1]
+Sharpe Ratio:  -0.734327458324
+Volatility (stdev of daily returns):  0.0255224802253
+Average Daily Return: -0.0011806260825
+Cumulative Return:  [ 0.68138576]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.2, 0.3, 0.4]
+Sharpe Ratio:  -0.405497808929
+Volatility (stdev of daily returns):  0.0209705569862
+Average Daily Return: -0.000535671088609
+Cumulative Return:  [ 0.82560916]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.4, 0.4, 0.2]
+Sharpe Ratio:  -0.410381671934
+Volatility (stdev of daily returns):  0.0224963346888
+Average Daily Return: -0.000581566592154
+Cumulative Return:  [ 0.80821148]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.2, 0.2, 0.4]
+Sharpe Ratio:  -0.427941417664
+Volatility (stdev of daily returns):  0.0200091167785
+Average Daily Return: -0.000539401276087
+Cumulative Return:  [ 0.82983668]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.2, 0.3, 0.2]
+Sharpe Ratio:  -0.600507372632
+Volatility (stdev of daily returns):  0.021627742399
+Average Daily Return: -0.000818143080295
+Cumulative Return:  [ 0.76603375]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.0, 0.4, 0.4]
+Sharpe Ratio:  -0.515225542167
+Volatility (stdev of daily returns):  0.0228481976442
+Average Daily Return: -0.000741564722376
+Cumulative Return:  [ 0.77497639]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.4, 0.0, 0.0]
+Sharpe Ratio:  -0.653406182099
+Volatility (stdev of daily returns):  0.0207166333096
+Average Daily Return: -0.000852711554319
+Cumulative Return:  [ 0.76554615]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.1, 0.4, 0.4]
+Sharpe Ratio:  -0.44870305626
+Volatility (stdev of daily returns):  0.0224274298191
+Average Daily Return: -0.000633925560943
+Cumulative Return:  [ 0.79817901]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.0, 1.0]
+Sharpe Ratio:  0.0459503421048
+Volatility (stdev of daily returns):  0.0190475488687
+Average Daily Return: 5.5135024918e-05
+Cumulative Return:  [ 0.9706127]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.2, 0.4, 0.3]
+Sharpe Ratio:  -0.472742498529
+Volatility (stdev of daily returns):  0.0223952378291
+Average Daily Return: -0.000666929694803
+Cumulative Return:  [ 0.79159394]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.1, 0.4, 0.3]
+Sharpe Ratio:  -0.543851956856
+Volatility (stdev of daily returns):  0.0227086405244
+Average Daily Return: -0.000777985603755
+Cumulative Return:  [ 0.76839131]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.1, 0.3, 0.4]
+Sharpe Ratio:  -0.479161800815
+Volatility (stdev of daily returns):  0.0212825468187
+Average Daily Return: -0.000642399975195
+Cumulative Return:  [ 0.80240653]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.7, 0.2]
+Sharpe Ratio:  -0.496591086117
+Volatility (stdev of daily returns):  0.0276391759175
+Average Daily Return: -0.000864616938287
+Cumulative Return:  [ 0.72592104]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.5, 0.3, 0.2]
+Sharpe Ratio:  -0.356579075849
+Volatility (stdev of daily returns):  0.0213255746454
+Average Daily Return: -0.000479022956995
+Cumulative Return:  [ 0.83564163]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.1, 0.1, 0.7]
+Sharpe Ratio:  -0.197742096111
+Volatility (stdev of daily returns):  0.0191254183095
+Average Daily Return: -0.000238237325992
+Cumulative Return:  [ 0.90022469]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.2, 0.0, 0.5]
+Sharpe Ratio:  -0.335435165311
+Volatility (stdev of daily returns):  0.0186803518002
+Average Daily Return: -0.000394723852035
+Cumulative Return:  [ 0.86807943]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.2, 0.2, 0.3]
+Sharpe Ratio:  -0.528081294035
+Volatility (stdev of daily returns):  0.0203582701211
+Average Daily Return: -0.000677238105292
+Cumulative Return:  [ 0.80004898]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.1, 0.0, 0.4]
+Sharpe Ratio:  -0.500601209482
+Volatility (stdev of daily returns):  0.0197878940618
+Average Daily Return: -0.00062400949899
+Cumulative Return:  [ 0.8150891]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.8, 0.2, 0.0, 0.0]
+Sharpe Ratio:  -0.755587392848
+Volatility (stdev of daily returns):  0.0223858593636
+Average Daily Return: -0.00106551165275
+Cumulative Return:  [ 0.7191409]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.5, 0.0, 0.0]
+Sharpe Ratio:  -0.582661261567
+Volatility (stdev of daily returns):  0.020252047785
+Average Daily Return: -0.000743335403596
+Cumulative Return:  [ 0.78874878]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.3, 0.2, 0.3]
+Sharpe Ratio:  -0.451345199536
+Volatility (stdev of daily returns):  0.0200430325047
+Average Daily Return: -0.00056986500503
+Cumulative Return:  [ 0.8232516]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.1, 0.2, 0.4]
+Sharpe Ratio:  -0.499822544033
+Volatility (stdev of daily returns):  0.0204393377055
+Average Daily Return: -0.00064355014066
+Cumulative Return:  [ 0.80663406]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.0, 0.2, 0.6]
+Sharpe Ratio:  -0.366266216075
+Volatility (stdev of daily returns):  0.0203827315976
+Average Daily Return: -0.000470282671964
+Cumulative Return:  [ 0.84300684]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.1, 0.0, 0.7]
+Sharpe Ratio:  -0.197882328117
+Volatility (stdev of daily returns):  0.0186535414069
+Average Daily Return: -0.000232524134436
+Cumulative Return:  [ 0.90445221]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.3, 0.0, 0.7]
+Sharpe Ratio:  -0.0357435920468
+Volatility (stdev of daily returns):  0.018217138328
+Average Daily Return: -4.10183399785e-05
+Cumulative Return:  [ 0.95085746]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.0, 0.4, 0.3]
+Sharpe Ratio:  -0.606167397246
+Volatility (stdev of daily returns):  0.0232418013352
+Average Daily Return: -0.000887487180152
+Cumulative Return:  [ 0.74518868]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.4, 0.2, 0.0]
+Sharpe Ratio:  -0.655136800779
+Volatility (stdev of daily returns):  0.0212398015467
+Average Daily Return: -0.000876561072103
+Cumulative Return:  [ 0.75709111]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.0, 0.2, 0.3]
+Sharpe Ratio:  -0.648632311986
+Volatility (stdev of daily returns):  0.0217009447777
+Average Daily Return: -0.000886700495029
+Cumulative Return:  [ 0.75364373]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.5, 0.1, 0.1]
+Sharpe Ratio:  -0.494823370932
+Volatility (stdev of daily returns):  0.0198838619984
+Average Daily Return: -0.000619798717793
+Cumulative Return:  [ 0.81430896]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.7, 0.0, 0.1, 0.2]
+Sharpe Ratio:  -0.721289352757
+Volatility (stdev of daily returns):  0.0223233786268
+Average Daily Return: -0.0010143064249
+Cumulative Return:  [ 0.72808354]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.3, 0.4, 0.0]
+Sharpe Ratio:  -0.672804191037
+Volatility (stdev of daily returns):  0.0233480456324
+Average Daily Return: -0.000989552752515
+Cumulative Return:  [ 0.72543345]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.1, 0.1, 0.6]
+Sharpe Ratio:  -0.304810484836
+Volatility (stdev of daily returns):  0.0192449269315
+Average Daily Return: -0.000369526763159
+Cumulative Return:  [ 0.87043698]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.1, 0.4, 0.1]
+Sharpe Ratio:  -0.71900659846
+Volatility (stdev of daily returns):  0.0237072295459
+Average Daily Return: -0.00107377530177
+Cumulative Return:  [ 0.7088159]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.8, 0.0, 0.0, 0.2]
+Sharpe Ratio:  -0.697255249826
+Volatility (stdev of daily returns):  0.0225558541558
+Average Daily Return: -0.000990719703365
+Cumulative Return:  [ 0.73231106]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.3, 0.0, 0.6]
+Sharpe Ratio:  -0.146050857174
+Volatility (stdev of daily returns):  0.0182123976838
+Average Daily Return: -0.000167560236531
+Cumulative Return:  [ 0.92106976]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.2, 0.0, 0.4]
+Sharpe Ratio:  -0.437098297473
+Volatility (stdev of daily returns):  0.019091009219
+Average Daily Return: -0.000525663390443
+Cumulative Return:  [ 0.83829172]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.6, 0.3]
+Sharpe Ratio:  -0.523971546442
+Volatility (stdev of daily returns):  0.0259539156886
+Average Daily Return: -0.000856663617797
+Cumulative Return:  [ 0.73673364]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.1, 0.5, 0.3]
+Sharpe Ratio:  -0.504401886382
+Volatility (stdev of daily returns):  0.0240457266823
+Average Daily Return: -0.000764036907479
+Cumulative Return:  [ 0.76416379]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.9, 0.1, 0.0, 0.0]
+Sharpe Ratio:  -0.785932264365
+Volatility (stdev of daily returns):  0.023593223931
+Average Daily Return: -0.00116807878794
+Cumulative Return:  [ 0.69593828]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.0, 0.0, 0.7]
+Sharpe Ratio:  -0.268929989608
+Volatility (stdev of daily returns):  0.0192165696125
+Average Daily Return: -0.000325547847511
+Cumulative Return:  [ 0.88124958]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.1, 0.8]
+Sharpe Ratio:  -0.165642108115
+Volatility (stdev of daily returns):  0.0194657747988
+Average Daily Return: -0.000203115082426
+Cumulative Return:  [ 0.90680977]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.3, 0.0, 0.2]
+Sharpe Ratio:  -0.555615821259
+Volatility (stdev of daily returns):  0.0197005257218
+Average Daily Return: -0.0006895283854
+Cumulative Return:  [ 0.80191894]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.4, 0.2, 0.2]
+Sharpe Ratio:  -0.468946040015
+Volatility (stdev of daily returns):  0.0202273615301
+Average Daily Return: -0.000597532923182
+Cumulative Return:  [ 0.81666652]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.1, 0.0, 0.3]
+Sharpe Ratio:  -0.587019137846
+Volatility (stdev of daily returns):  0.0204893055487
+Average Daily Return: -0.00075766849464
+Cumulative Return:  [ 0.78530139]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.3, 0.3, 0.2]
+Sharpe Ratio:  -0.526022653066
+Volatility (stdev of daily returns):  0.0213147064664
+Average Daily Return: -0.000706290773808
+Cumulative Return:  [ 0.78923638]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.9, 0.1]
+Sharpe Ratio:  -0.52472785021
+Volatility (stdev of daily returns):  0.0322462738024
+Average Daily Return: -0.00106589244038
+Cumulative Return:  [ 0.66447567]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.5, 0.4]
+Sharpe Ratio:  -0.411620322762
+Volatility (stdev of daily returns):  0.023835092376
+Average Daily Return: -0.000618035437662
+Cumulative Return:  [ 0.79395149]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.9, 0.0, 0.1, 0.0]
+Sharpe Ratio:  -0.839259969047
+Volatility (stdev of daily returns):  0.024576395194
+Average Daily Return: -0.00129931490434
+Cumulative Return:  [ 0.66850813]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.1, 0.7, 0.0]
+Sharpe Ratio:  -0.656999399507
+Volatility (stdev of daily returns):  0.0284717717982
+Average Daily Return: -0.00117836326844
+Cumulative Return:  [ 0.66634564]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.4, 0.5]
+Sharpe Ratio:  -0.420219485145
+Volatility (stdev of daily returns):  0.0225950772676
+Average Daily Return: -0.00059812195856
+Cumulative Return:  [ 0.80476409]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.2, 0.4, 0.1]
+Sharpe Ratio:  -0.656844474816
+Volatility (stdev of daily returns):  0.023167492055
+Average Daily Return: -0.000958608561587
+Cumulative Return:  [ 0.73201853]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.4, 0.3, 0.2]
+Sharpe Ratio:  -0.443758027507
+Volatility (stdev of daily returns):  0.0212195381162
+Average Daily Return: -0.000593173688175
+Cumulative Return:  [ 0.812439]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.2, 0.3, 0.0]
+Sharpe Ratio:  -0.769497061479
+Volatility (stdev of daily returns):  0.0228999444248
+Average Daily Return: -0.00111004637695
+Cumulative Return:  [ 0.70645834]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.3, 0.0, 0.4]
+Sharpe Ratio:  -0.362250717266
+Volatility (stdev of daily returns):  0.0186390956611
+Average Daily Return: -0.000425337643803
+Cumulative Return:  [ 0.86149435]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.2, 0.2, 0.6]
+Sharpe Ratio:  -0.216804073575
+Volatility (stdev of daily returns):  0.0197486507457
+Average Daily Return: -0.000269714687554
+Cumulative Return:  [ 0.88941209]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.0, 0.4, 0.1]
+Sharpe Ratio:  -0.76987650453
+Volatility (stdev of daily returns):  0.0244796998731
+Average Daily Return: -0.0011872081912
+Cumulative Return:  [ 0.68561328]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.2, 0.3, 0.3]
+Sharpe Ratio:  -0.505406006821
+Volatility (stdev of daily returns):  0.0212255861476
+Average Daily Return: -0.00067577142092
+Cumulative Return:  [ 0.79582146]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.7, 0.2, 0.0]
+Sharpe Ratio:  -0.39356792396
+Volatility (stdev of daily returns):  0.0212440250254
+Average Daily Return: -0.000526691403359
+Cumulative Return:  [ 0.82669899]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.5, 0.1, 0.2]
+Sharpe Ratio:  -0.396027050422
+Volatility (stdev of daily returns):  0.0194639398466
+Average Daily Return: -0.000485573899483
+Cumulative Return:  [ 0.84409667]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.1, 0.2, 0.2]
+Sharpe Ratio:  -0.681369299958
+Volatility (stdev of daily returns):  0.0215383927831
+Average Daily Return: -0.000924475878963
+Cumulative Return:  [ 0.74705865]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.5, 0.2, 0.2]
+Sharpe Ratio:  -0.380979473299
+Volatility (stdev of daily returns):  0.0202419052562
+Average Daily Return: -0.000485794612845
+Cumulative Return:  [ 0.83986915]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.1, 0.5, 0.0]
+Sharpe Ratio:  -0.758501886527
+Volatility (stdev of daily returns):  0.0255060942116
+Average Daily Return: -0.00121870994303
+Cumulative Return:  [ 0.67480068]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.0, 0.8, 0.0]
+Sharpe Ratio:  -0.655845385104
+Volatility (stdev of daily returns):  0.0307718829942
+Average Daily Return: -0.00127132114095
+Cumulative Return:  [ 0.63891549]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.1, 0.4, 0.2]
+Sharpe Ratio:  -0.634467640746
+Volatility (stdev of daily returns):  0.0231328028267
+Average Daily Return: -0.000924565029468
+Cumulative Return:  [ 0.73860361]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.0, 0.0, 0.5]
+Sharpe Ratio:  -0.464382034641
+Volatility (stdev of daily returns):  0.0200652342648
+Average Daily Return: -0.00058697468872
+Cumulative Return:  [ 0.82167418]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.7, 0.0, 0.3, 0.0]
+Sharpe Ratio:  -0.857825296289
+Volatility (stdev of daily returns):  0.0247263370378
+Average Daily Return: -0.00133615968281
+Cumulative Return:  [ 0.66005309]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.6, 0.0, 0.2]
+Sharpe Ratio:  -0.309199394361
+Volatility (stdev of daily returns):  0.0190327444487
+Average Daily Return: -0.00037071467702
+Cumulative Return:  [ 0.87152681]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.1, 0.6, 0.1]
+Sharpe Ratio:  -0.631248943834
+Volatility (stdev of daily returns):  0.0263126212925
+Average Daily Return: -0.00104631995777
+Cumulative Return:  [ 0.70036086]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.4, 0.1, 0.5]
+Sharpe Ratio:  -0.166346477611
+Volatility (stdev of daily returns):  0.0188784246814
+Average Daily Return: -0.000197824050674
+Cumulative Return:  [ 0.91025716]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.1, 0.8, 0.0]
+Sharpe Ratio:  -0.599568533614
+Volatility (stdev of daily returns):  0.0303046270379
+Average Daily Return: -0.00114458356428
+Cumulative Return:  [ 0.66211811]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.6, 0.0, 0.3]
+Sharpe Ratio:  -0.20488106695
+Volatility (stdev of daily returns):  0.0187693472109
+Average Daily Return: -0.000242242714853
+Cumulative Return:  [ 0.90131452]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.5, 0.1, 0.3]
+Sharpe Ratio:  -0.29203141527
+Volatility (stdev of daily returns):  0.0191972401095
+Average Daily Return: -0.000353157228283
+Cumulative Return:  [ 0.87388437]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.4, 0.0, 0.1]
+Sharpe Ratio:  -0.572782628853
+Volatility (stdev of daily returns):  0.0198970027699
+Average Daily Return: -0.000717921944338
+Cumulative Return:  [ 0.79533386]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.2, 0.8]
+Sharpe Ratio:  -0.158939674735
+Volatility (stdev of daily returns):  0.0202302741159
+Average Daily Return: -0.000202550731956
+Cumulative Return:  [ 0.90258225]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.0, 0.4, 0.2]
+Sharpe Ratio:  -0.691485796413
+Volatility (stdev of daily returns):  0.023783490802
+Average Daily Return: -0.00103599722379
+Cumulative Return:  [ 0.71540098]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.2, 0.7, 0.0]
+Sharpe Ratio:  -0.594342517466
+Volatility (stdev of daily returns):  0.0281213233643
+Average Daily Return: -0.00105286401717
+Cumulative Return:  [ 0.68954826]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.5, 0.1, 0.4]
+Sharpe Ratio:  -0.185164763398
+Volatility (stdev of daily returns):  0.0190758633167
+Average Daily Return: -0.000222506281604
+Cumulative Return:  [ 0.90367208]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.5, 0.0, 0.2]
+Sharpe Ratio:  -0.399171442009
+Volatility (stdev of daily returns):  0.0190257197574
+Average Daily Return: -0.00047841004299
+Cumulative Return:  [ 0.84832419]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.7, 0.0, 0.0, 0.3]
+Sharpe Ratio:  -0.629231878982
+Volatility (stdev of daily returns):  0.0215602596309
+Average Daily Return: -0.000854603039861
+Cumulative Return:  [ 0.76209877]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.8, 0.1, 0.1, 0.0]
+Sharpe Ratio:  -0.815893964429
+Volatility (stdev of daily returns):  0.0232582340655
+Average Daily Return: -0.00119539156471
+Cumulative Return:  [ 0.69171076]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.3, 0.1, 0.4]
+Sharpe Ratio:  -0.360754651476
+Volatility (stdev of daily returns):  0.01905098031
+Average Daily Return: -0.00043294128044
+Cumulative Return:  [ 0.85726683]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.3, 0.3, 0.3]
+Sharpe Ratio:  -0.427243629098
+Volatility (stdev of daily returns):  0.0210234294199
+Average Daily Return: -0.000565820771077
+Cumulative Return:  [ 0.81902408]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 1.0, 0.0, 0.0]
+Sharpe Ratio:  -0.134106057919
+Volatility (stdev of daily returns):  0.0211220240986
+Average Daily Return: -0.000178436485148
+Cumulative Return:  [ 0.9047619]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.4, 0.0, 0.5]
+Sharpe Ratio:  -0.169640381251
+Volatility (stdev of daily returns):  0.0182494501949
+Average Daily Return: -0.000195019821386
+Cumulative Return:  [ 0.91448468]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.2, 0.0, 0.3]
+Sharpe Ratio:  -0.531345685419
+Volatility (stdev of daily returns):  0.0196646599679
+Average Daily Return: -0.000658208261769
+Cumulative Return:  [ 0.80850402]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.4, 0.6]
+Sharpe Ratio:  -0.322846151085
+Volatility (stdev of daily returns):  0.0224736910308
+Average Daily Return: -0.000457056351668
+Cumulative Return:  [ 0.8345518]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.0, 0.6, 0.2]
+Sharpe Ratio:  -0.608523001426
+Volatility (stdev of daily returns):  0.0263344855892
+Average Daily Return: -0.00100948894584
+Cumulative Return:  [ 0.70694594]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.3, 0.6]
+Sharpe Ratio:  -0.348414428866
+Volatility (stdev of daily returns):  0.0212862036863
+Average Daily Return: -0.000467190577654
+Cumulative Return:  [ 0.83877932]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.1, 0.5, 0.2]
+Sharpe Ratio:  -0.594080255216
+Volatility (stdev of daily returns):  0.0243890840245
+Average Daily Return: -0.000912725823295
+Cumulative Return:  [ 0.73437608]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.2, 0.0, 0.2]
+Sharpe Ratio:  -0.616456181928
+Volatility (stdev of daily returns):  0.0204044369618
+Average Daily Return: -0.000792367323114
+Cumulative Return:  [ 0.77871631]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.4, 0.5, 0.0]
+Sharpe Ratio:  -0.553044006506
+Volatility (stdev of daily returns):  0.0245202922683
+Average Daily Return: -0.000854250146895
+Cumulative Return:  [ 0.74440855]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.1, 0.0, 0.5]
+Sharpe Ratio:  -0.405654498549
+Volatility (stdev of daily returns):  0.0192510679634
+Average Daily Return: -0.000491938546186
+Cumulative Return:  [ 0.8448768]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.8, 0.2]
+Sharpe Ratio:  -0.504798512711
+Volatility (stdev of daily returns):  0.029842792843
+Average Daily Return: -0.000948980438897
+Cumulative Return:  [ 0.6984909]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.0, 0.3, 0.2]
+Sharpe Ratio:  -0.717178214575
+Volatility (stdev of daily returns):  0.0229516471846
+Average Daily Return: -0.00103690908014
+Cumulative Return:  [ 0.7196285]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.0, 0.7, 0.0]
+Sharpe Ratio:  -0.712471258466
+Volatility (stdev of daily returns):  0.0290247484111
+Average Daily Return: -0.00130267339316
+Cumulative Return:  [ 0.64314301]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.2, 0.0, 0.6]
+Sharpe Ratio:  -0.228611916515
+Volatility (stdev of daily returns):  0.0184271755189
+Average Daily Return: -0.000265373386488
+Cumulative Return:  [ 0.89786713]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.2, 0.4, 0.4]
+Sharpe Ratio:  -0.374965793964
+Volatility (stdev of daily returns):  0.0222181758948
+Average Daily Return: -0.000524807196226
+Cumulative Return:  [ 0.82138164]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.5, 0.2, 0.3]
+Sharpe Ratio:  -0.277841638865
+Volatility (stdev of daily returns):  0.0200671391942
+Average Daily Return: -0.000351222657608
+Cumulative Return:  [ 0.86965685]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.9, 0.0, 0.1]
+Sharpe Ratio:  -0.1301923764
+Volatility (stdev of daily returns):  0.0203228430637
+Average Daily Return: -0.000166674725033
+Cumulative Return:  [ 0.91134698]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.1, 0.5, 0.1]
+Sharpe Ratio:  -0.679207805755
+Volatility (stdev of daily returns):  0.0248734165196
+Average Daily Return: -0.00106423574186
+Cumulative Return:  [ 0.70458838]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.7, 0.0, 0.3]
+Sharpe Ratio:  -0.112379866273
+Volatility (stdev of daily returns):  0.0190787949971
+Average Daily Return: -0.00013506386771
+Cumulative Return:  [ 0.92451714]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.4, 0.1, 0.0]
+Sharpe Ratio:  -0.662997004877
+Volatility (stdev of daily returns):  0.0207946704996
+Average Daily Return: -0.000868487034348
+Cumulative Return:  [ 0.76131863]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.5, 0.5, 0.0]
+Sharpe Ratio:  -0.471858399521
+Volatility (stdev of daily returns):  0.0245889145591
+Average Daily Return: -0.000730887909563
+Cumulative Return:  [ 0.76761118]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.2, 0.1, 0.6]
+Sharpe Ratio:  -0.227201968059
+Volatility (stdev of daily returns):  0.01892357654
+Average Daily Return: -0.00027084139356
+Cumulative Return:  [ 0.89363961]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.3, 0.2, 0.4]
+Sharpe Ratio:  -0.34758609791
+Volatility (stdev of daily returns):  0.0198070754873
+Average Daily Return: -0.000433693071785
+Cumulative Return:  [ 0.85303931]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.4, 0.0, 0.4]
+Sharpe Ratio:  -0.278577047609
+Volatility (stdev of daily returns):  0.0184252308818
+Average Daily Return: -0.000323338932064
+Cumulative Return:  [ 0.88469697]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.0, 0.5, 0.0]
+Sharpe Ratio:  -0.808014759321
+Volatility (stdev of daily returns):  0.0262754314994
+Average Daily Return: -0.00133742328504
+Cumulative Return:  [ 0.65159805]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.7, 0.3, 0.0]
+Sharpe Ratio:  -0.369330311124
+Volatility (stdev of daily returns):  0.0223184089116
+Average Daily Return: -0.000519251681785
+Cumulative Return:  [ 0.82247147]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.8, 0.1, 0.1]
+Sharpe Ratio:  -0.217442016319
+Volatility (stdev of daily returns):  0.0204985347833
+Average Daily Return: -0.000280779900227
+Cumulative Return:  [ 0.88391684]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.2, 0.4, 0.2]
+Sharpe Ratio:  -0.567268882125
+Volatility (stdev of daily returns):  0.0227089330143
+Average Daily Return: -0.000811494198982
+Cumulative Return:  [ 0.76180623]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.3, 0.5, 0.0]
+Sharpe Ratio:  -0.629327667553
+Volatility (stdev of daily returns):  0.0246401006096
+Average Daily Return: -0.000976830096118
+Cumulative Return:  [ 0.72120593]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.8, 0.1]
+Sharpe Ratio:  -0.581768838237
+Volatility (stdev of daily returns):  0.0302430547947
+Average Daily Return: -0.00110834723197
+Cumulative Return:  [ 0.66870319]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.9, 0.0]
+Sharpe Ratio:  -0.540674917048
+Volatility (stdev of daily returns):  0.0323342164838
+Average Daily Return: -0.00110128137278
+Cumulative Return:  [ 0.65789059]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.1, 0.2, 0.6]
+Sharpe Ratio:  -0.294998024457
+Volatility (stdev of daily returns):  0.0199549077746
+Average Daily Return: -0.000370824621542
+Cumulative Return:  [ 0.86620946]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.0, 0.9]
+Sharpe Ratio:  0.0176416222542
+Volatility (stdev of daily returns):  0.0186381867329
+Average Daily Return: 2.07129476147e-05
+Cumulative Return:  [ 0.96402762]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.4, 0.0, 0.3]
+Sharpe Ratio:  -0.383648904701
+Volatility (stdev of daily returns):  0.0187543759364
+Average Daily Return: -0.00045324843119
+Cumulative Return:  [ 0.85490927]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.4, 0.2, 0.3]
+Sharpe Ratio:  -0.36688670305
+Volatility (stdev of daily returns):  0.0199515932214
+Average Daily Return: -0.000461115035451
+Cumulative Return:  [ 0.84645423]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.3, 0.3, 0.0]
+Sharpe Ratio:  -0.706153183347
+Volatility (stdev of daily returns):  0.0223496363811
+Average Daily Return: -0.000994189363853
+Cumulative Return:  [ 0.72966097]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.3, 0.4, 0.1]
+Sharpe Ratio:  -0.584937565339
+Volatility (stdev of daily returns):  0.022851702013
+Average Daily Return: -0.000842030446038
+Cumulative Return:  [ 0.75522115]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.3, 0.1, 0.3]
+Sharpe Ratio:  -0.464090097615
+Volatility (stdev of daily returns):  0.0193874371767
+Average Daily Return: -0.000566790333759
+Cumulative Return:  [ 0.82747912]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.5, 0.0, 0.3]
+Sharpe Ratio:  -0.296466719691
+Volatility (stdev of daily returns):  0.0186539076863
+Average Daily Return: -0.000348373812135
+Cumulative Return:  [ 0.87811189]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.8, 0.0, 0.0]
+Sharpe Ratio:  -0.319696817359
+Volatility (stdev of daily returns):  0.0202143950741
+Average Daily Return: -0.000407097834112
+Cumulative Return:  [ 0.85835665]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.2, 0.0, 0.8]
+Sharpe Ratio:  -0.00981238281512
+Volatility (stdev of daily returns):  0.0183588865657
+Average Daily Return: -1.13480319867e-05
+Cumulative Return:  [ 0.95744254]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.0, 0.0, 0.8]
+Sharpe Ratio:  -0.164524654317
+Volatility (stdev of daily returns):  0.0190218675093
+Average Daily Return: -0.000197144138437
+Cumulative Return:  [ 0.91103729]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.9, 0.1, 0.0]
+Sharpe Ratio:  -0.22042665138
+Volatility (stdev of daily returns):  0.0212275180429
+Average Daily Return: -0.000294756269529
+Cumulative Return:  [ 0.87733176]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.1, 0.0, 0.6]
+Sharpe Ratio:  -0.303990145781
+Volatility (stdev of daily returns):  0.0188750028766
+Average Daily Return: -0.000361448362643
+Cumulative Return:  [ 0.87466451]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.7, 0.3, 0.0, 0.0]
+Sharpe Ratio:  -0.711411909963
+Volatility (stdev of daily returns):  0.021426735575
+Average Daily Return: -0.00096023353971
+Cumulative Return:  [ 0.74234353]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.3, 0.0, 0.5]
+Sharpe Ratio:  -0.255775385406
+Volatility (stdev of daily returns):  0.0183497798862
+Average Daily Return: -0.000295657796892
+Cumulative Return:  [ 0.89128205]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.6, 0.2, 0.2]
+Sharpe Ratio:  -0.289543585281
+Volatility (stdev of daily returns):  0.020454081339
+Average Daily Return: -0.000373072859605
+Cumulative Return:  [ 0.86307177]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.2, 0.5, 0.2]
+Sharpe Ratio:  -0.525725823055
+Volatility (stdev of daily returns):  0.0240691708296
+Average Daily Return: -0.000797113507463
+Cumulative Return:  [ 0.75757871]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.2, 0.1, 0.7]
+Sharpe Ratio:  -0.118224538938
+Volatility (stdev of daily returns):  0.018914296884
+Average Daily Return: -0.000140863203273
+Cumulative Return:  [ 0.92342731]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.8, 0.0, 0.2]
+Sharpe Ratio:  -0.123025038111
+Volatility (stdev of daily returns):  0.0196386952346
+Average Daily Return: -0.000152196921631
+Cumulative Return:  [ 0.91793206]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [1.0, 0.0, 0.0, 0.0]
+Sharpe Ratio:  -0.803294509345
+Volatility (stdev of daily returns):  0.0250454966373
+Average Daily Return: -0.00126737219836
+Cumulative Return:  [ 0.67273565]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.2, 0.1, 0.2]
+Sharpe Ratio:  -0.627683372261
+Volatility (stdev of daily returns):  0.020449087099
+Average Daily Return: -0.000808563771426
+Cumulative Return:  [ 0.77448879]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.3, 0.7, 0.0]
+Sharpe Ratio:  -0.525984681147
+Volatility (stdev of daily returns):  0.027960464318
+Average Daily Return: -0.000926439801022
+Cumulative Return:  [ 0.71275089]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.1, 0.3, 0.5]
+Sharpe Ratio:  -0.378991183038
+Volatility (stdev of daily returns):  0.0210594811486
+Average Daily Return: -0.000502778274569
+Cumulative Return:  [ 0.83219424]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.2, 0.1, 0.1]
+Sharpe Ratio:  -0.708425327464
+Volatility (stdev of daily returns):  0.0212348085144
+Average Daily Return: -0.000947637325331
+Cumulative Return:  [ 0.74470109]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.9, 0.0, 0.0]
+Sharpe Ratio:  -0.225966218804
+Volatility (stdev of daily returns):  0.020590491872
+Average Daily Return: -0.000293096052538
+Cumulative Return:  [ 0.88155928]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.3, 0.7]
+Sharpe Ratio:  -0.247042704982
+Volatility (stdev of daily returns):  0.0212232572968
+Average Daily Return: -0.000330281161172
+Cumulative Return:  [ 0.86856702]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.8, 0.0, 0.1, 0.1]
+Sharpe Ratio:  -0.785290134983
+Volatility (stdev of daily returns):  0.0233660427301
+Average Daily Return: -0.00115588609133
+Cumulative Return:  [ 0.69829584]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.4, 0.3, 0.3]
+Sharpe Ratio:  -0.343204522321
+Volatility (stdev of daily returns):  0.0210299104189
+Average Daily Return: -0.000454663566298
+Cumulative Return:  [ 0.84222671]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.2, 0.2, 0.5]
+Sharpe Ratio:  -0.323421573429
+Volatility (stdev of daily returns):  0.0198089581563
+Average Daily Return: -0.00040358066334
+Cumulative Return:  [ 0.85962438]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.2, 0.5, 0.1]
+Sharpe Ratio:  -0.614535613297
+Volatility (stdev of daily returns):  0.0244453876107
+Average Daily Return: -0.000946332408795
+Cumulative Return:  [ 0.72779101]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.5, 0.4, 0.0]
+Sharpe Ratio:  -0.513739318025
+Volatility (stdev of daily returns):  0.0231304150647
+Average Daily Return: -0.000748558869415
+Cumulative Return:  [ 0.7718387]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.4, 0.2, 0.4]
+Sharpe Ratio:  -0.261656572451
+Volatility (stdev of daily returns):  0.0198193168538
+Average Daily Return: -0.000326678128225
+Cumulative Return:  [ 0.87624193]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.2, 0.0, 0.7]
+Sharpe Ratio:  -0.119201052841
+Volatility (stdev of daily returns):  0.0183234595425
+Average Daily Return: -0.000137590134292
+Cumulative Return:  [ 0.92765483]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.6, 0.1, 0.2]
+Sharpe Ratio:  -0.304221949976
+Volatility (stdev of daily returns):  0.0195822709678
+Average Daily Return: -0.000375278195012
+Cumulative Return:  [ 0.86729929]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.8, 0.2, 0.0]
+Sharpe Ratio:  -0.29985118387
+Volatility (stdev of daily returns):  0.0216238433243
+Average Daily Return: -0.000408449513848
+Cumulative Return:  [ 0.84990161]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.4, 0.0, 0.6]
+Sharpe Ratio:  -0.0594836850163
+Volatility (stdev of daily returns):  0.0182178807658
+Average Daily Return: -6.82645843422e-05
+Cumulative Return:  [ 0.94427238]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.1, 0.3, 0.0]
+Sharpe Ratio:  -0.820280948155
+Volatility (stdev of daily returns):  0.0236907529484
+Average Daily Return: -0.0012241685509
+Cumulative Return:  [ 0.68325572]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.1, 0.4, 0.0]
+Sharpe Ratio:  -0.796214682914
+Volatility (stdev of daily returns):  0.024438033793
+Average Daily Return: -0.00122573383007
+Cumulative Return:  [ 0.6790282]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.7, 0.1, 0.0, 0.2]
+Sharpe Ratio:  -0.663691346762
+Volatility (stdev of daily returns):  0.0213571462046
+Average Daily Return: -0.000892912917162
+Cumulative Return:  [ 0.75551369]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.0, 0.1, 0.6]
+Sharpe Ratio:  -0.373936549857
+Volatility (stdev of daily returns):  0.0197989386595
+Average Daily Return: -0.000466379611607
+Cumulative Return:  [ 0.84723436]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.1, 0.2, 0.5]
+Sharpe Ratio:  -0.399303694755
+Volatility (stdev of daily returns):  0.0201239076266
+Average Daily Return: -0.000506192112273
+Cumulative Return:  [ 0.83642176]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.7, 0.3]
+Sharpe Ratio:  -0.47578185835
+Volatility (stdev of daily returns):  0.0276615333291
+Average Daily Return: -0.000829055983523
+Cumulative Return:  [ 0.73250612]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.7, 0.1, 0.2]
+Sharpe Ratio:  -0.210715544885
+Volatility (stdev of daily returns):  0.0198916711687
+Average Daily Return: -0.000264038694255
+Cumulative Return:  [ 0.89050192]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.3, 0.4, 0.3]
+Sharpe Ratio:  -0.394973414716
+Volatility (stdev of daily returns):  0.0222896589897
+Average Daily Return: -0.000554588702724
+Cumulative Return:  [ 0.81479656]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.3, 0.1, 0.1]
+Sharpe Ratio:  -0.649171551673
+Volatility (stdev of daily returns):  0.0205420295878
+Average Daily Return: -0.000840045016465
+Cumulative Return:  [ 0.76790371]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.8, 0.0, 0.2, 0.0]
+Sharpe Ratio:  -0.857778651712
+Volatility (stdev of daily returns):  0.0244693888467
+Average Daily Return: -0.00132220283928
+Cumulative Return:  [ 0.66428061]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.3, 0.1, 0.6]
+Sharpe Ratio:  -0.143858511302
+Volatility (stdev of daily returns):  0.0188248857311
+Average Daily Return: -0.000170595527087
+Cumulative Return:  [ 0.91684223]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.3, 0.2, 0.2]
+Sharpe Ratio:  -0.550192486328
+Volatility (stdev of daily returns):  0.0204297169455
+Average Daily Return: -0.000708070880422
+Cumulative Return:  [ 0.7934639]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.6, 0.0, 0.0]
+Sharpe Ratio:  -0.501374614636
+Volatility (stdev of daily returns):  0.0200240328112
+Average Daily Return: -0.000632431683468
+Cumulative Return:  [ 0.8119514]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.1, 0.0, 0.8]
+Sharpe Ratio:  -0.0898437307366
+Volatility (stdev of daily returns):  0.018578148821
+Average Daily Return: -0.000105145319421
+Cumulative Return:  [ 0.93423991]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.0, 0.1, 0.7]
+Sharpe Ratio:  -0.270962756344
+Volatility (stdev of daily returns):  0.0195607479731
+Average Daily Return: -0.000333883370215
+Cumulative Return:  [ 0.87702206]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.3, 0.1, 0.5]
+Sharpe Ratio:  -0.253172745517
+Volatility (stdev of daily returns):  0.0188665381106
+Average Daily Return: -0.000300890792461
+Cumulative Return:  [ 0.88705453]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.2, 0.7]
+Sharpe Ratio:  -0.189150556302
+Volatility (stdev of daily returns):  0.0199228220364
+Average Daily Return: -0.000237387697496
+Cumulative Return:  [ 0.89599717]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.2, 0.5, 0.3]
+Sharpe Ratio:  -0.433452763467
+Volatility (stdev of daily returns):  0.0238276401503
+Average Daily Return: -0.000650612702891
+Cumulative Return:  [ 0.78736641]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.1, 0.3, 0.2]
+Sharpe Ratio:  -0.664781213056
+Volatility (stdev of daily returns):  0.022170906798
+Average Daily Return: -0.000928457275007
+Cumulative Return:  [ 0.74283113]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.6, 0.1, 0.3]
+Sharpe Ratio:  -0.199989290388
+Volatility (stdev of daily returns):  0.0194151768527
+Average Daily Return: -0.000244595137953
+Cumulative Return:  [ 0.897087]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.3, 0.0, 0.3]
+Sharpe Ratio:  -0.462920545969
+Volatility (stdev of daily returns):  0.0190877330724
+Average Daily Return: -0.000556622220328
+Cumulative Return:  [ 0.83170664]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.6, 0.1, 0.1]
+Sharpe Ratio:  -0.4051263343
+Volatility (stdev of daily returns):  0.0198945946094
+Average Daily Return: -0.0005077212002
+Cumulative Return:  [ 0.83751159]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.6, 0.2, 0.0]
+Sharpe Ratio:  -0.486104090142
+Volatility (stdev of daily returns):  0.0210390802974
+Average Daily Return: -0.000644251971241
+Cumulative Return:  [ 0.80349636]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.3, 0.3, 0.4]
+Sharpe Ratio:  -0.325176210101
+Volatility (stdev of daily returns):  0.0208725590659
+Average Daily Return: -0.000427557169602
+Cumulative Return:  [ 0.84881179]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.0, 0.1, 0.4]
+Sharpe Ratio:  -0.563957676151
+Volatility (stdev of daily returns):  0.0207368761673
+Average Daily Return: -0.000736698144746
+Cumulative Return:  [ 0.78765895]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.1, 0.1, 0.4]
+Sharpe Ratio:  -0.50764014409
+Volatility (stdev of daily returns):  0.0199328860879
+Average Daily Return: -0.000637420274754
+Cumulative Return:  [ 0.81086158]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.3, 0.1, 0.2]
+Sharpe Ratio:  -0.560859534149
+Volatility (stdev of daily returns):  0.0198828906984
+Average Daily Return: -0.000702479025399
+Cumulative Return:  [ 0.79769142]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.2, 0.3, 0.5]
+Sharpe Ratio:  -0.302781985779
+Volatility (stdev of daily returns):  0.0208540378337
+Average Daily Return: -0.000397758912589
+Cumulative Return:  [ 0.85539686]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.5, 0.3, 0.0]
+Sharpe Ratio:  -0.549033336676
+Volatility (stdev of daily returns):  0.0219319697764
+Average Daily Return: -0.000758535801397
+Cumulative Return:  [ 0.77606622]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.2, 0.1, 0.4]
+Sharpe Ratio:  -0.439266898793
+Volatility (stdev of daily returns):  0.019372447296
+Average Daily Return: -0.000536059128094
+Cumulative Return:  [ 0.8340642]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.2, 0.1, 0.5]
+Sharpe Ratio:  -0.33505022871
+Volatility (stdev of daily returns):  0.0190730457425
+Average Daily Return: -0.000402559146526
+Cumulative Return:  [ 0.86385191]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.4, 0.1, 0.4]
+Sharpe Ratio:  -0.274944277825
+Volatility (stdev of daily returns):  0.0189576918792
+Average Daily Return: -0.000328344597945
+Cumulative Return:  [ 0.88046945]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.1, 0.6, 0.0]
+Sharpe Ratio:  -0.710922779909
+Volatility (stdev of daily returns):  0.0268619229254
+Average Daily Return: -0.00120298235892
+Cumulative Return:  [ 0.67057316]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.0, 0.4, 0.0]
+Sharpe Ratio:  -0.84037118741
+Volatility (stdev of daily returns):  0.025335835305
+Average Daily Return: -0.00134123880743
+Cumulative Return:  [ 0.65582557]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.1, 0.1, 0.5]
+Sharpe Ratio:  -0.408896035903
+Volatility (stdev of daily returns):  0.0195113842415
+Average Daily Return: -0.000502574803482
+Cumulative Return:  [ 0.84064928]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.3, 0.2, 0.5]
+Sharpe Ratio:  -0.241173489444
+Volatility (stdev of daily returns):  0.0197131907578
+Average Daily Return: -0.000299492686207
+Cumulative Return:  [ 0.88282701]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.0, 0.3, 0.5]
+Sharpe Ratio:  -0.447982704298
+Volatility (stdev of daily returns):  0.0214820313191
+Average Daily Return: -0.000606228461702
+Cumulative Return:  [ 0.80899161]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.5, 0.0, 0.5]
+Sharpe Ratio:  -0.0804394634593
+Volatility (stdev of daily returns):  0.0183630397808
+Average Daily Return: -9.30493770187e-05
+Cumulative Return:  [ 0.9376873]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.8, 0.0, 0.1]
+Sharpe Ratio:  -0.2229734193
+Volatility (stdev of daily returns):  0.0198549822614
+Average Daily Return: -0.000278883183166
+Cumulative Return:  [ 0.88814436]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.6, 0.4]
+Sharpe Ratio:  -0.436525299596
+Volatility (stdev of daily returns):  0.0257024877901
+Average Daily Return: -0.00070678009532
+Cumulative Return:  [ 0.76652135]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.3, 0.4, 0.2]
+Sharpe Ratio:  -0.491779013942
+Volatility (stdev of daily returns):  0.02250153417
+Average Daily Return: -0.000697078761712
+Cumulative Return:  [ 0.78500886]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.2, 0.2, 0.2]
+Sharpe Ratio:  -0.621746339141
+Volatility (stdev of daily returns):  0.0208636485537
+Average Daily Return: -0.000817152709147
+Cumulative Return:  [ 0.77026127]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.7, 0.2]
+Sharpe Ratio:  -0.557954271942
+Volatility (stdev of daily returns):  0.0279847131313
+Average Daily Return: -0.000983601530965
+Cumulative Return:  [ 0.70271842]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.2, 0.6, 0.0]
+Sharpe Ratio:  -0.648811136667
+Volatility (stdev of daily returns):  0.0264236205113
+Average Daily Return: -0.00107996666121
+Cumulative Return:  [ 0.69377578]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.3, 0.5, 0.2]
+Sharpe Ratio:  -0.45092094623
+Volatility (stdev of daily returns):  0.0239506111061
+Average Daily Return: -0.000680325482443
+Cumulative Return:  [ 0.78078134]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.5, 0.5]
+Sharpe Ratio:  -0.385865056261
+Volatility (stdev of daily returns):  0.023970380312
+Average Daily Return: -0.000582653158481
+Cumulative Return:  [ 0.80053657]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.2, 0.4, 0.0]
+Sharpe Ratio:  -0.739976662082
+Volatility (stdev of daily returns):  0.0237779029611
+Average Daily Return: -0.00110838669221
+Cumulative Return:  [ 0.70223082]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.5, 0.4, 0.1]
+Sharpe Ratio:  -0.421014803601
+Volatility (stdev of daily returns):  0.0228372891406
+Average Daily Return: -0.000605677787509
+Cumulative Return:  [ 0.8016264]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.1, 0.1, 0.2]
+Sharpe Ratio:  -0.681373158799
+Volatility (stdev of daily returns):  0.0212625045255
+Average Daily Return: -0.000912639307906
+Cumulative Return:  [ 0.75128617]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 0.1, 0.9]
+Sharpe Ratio:  -0.0602591599892
+Volatility (stdev of daily returns):  0.019503716958
+Average Daily Return: -7.40355298225e-05
+Cumulative Return:  [ 0.93659747]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.1, 0.1, 0.3]
+Sharpe Ratio:  -0.598987828689
+Volatility (stdev of daily returns):  0.0205153270823
+Average Daily Return: -0.000774098405271
+Cumulative Return:  [ 0.78107387]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.2, 0.4, 0.1, 0.3]
+Sharpe Ratio:  -0.381214722209
+Volatility (stdev of daily returns):  0.0191814775496
+Average Daily Return: -0.000460629185936
+Cumulative Return:  [ 0.85068175]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.0, 0.2, 0.4]
+Sharpe Ratio:  -0.560969666172
+Volatility (stdev of daily returns):  0.0211061165633
+Average Daily Return: -0.000745843037298
+Cumulative Return:  [ 0.78343143]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.0, 0.0, 0.9]
+Sharpe Ratio:  -0.0587957694073
+Volatility (stdev of daily returns):  0.0189691155319
+Average Daily Return: -7.02575318908e-05
+Cumulative Return:  [ 0.94082499]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.3, 0.1, 0.3, 0.3]
+Sharpe Ratio:  -0.575035020032
+Volatility (stdev of daily returns):  0.0216505448731
+Average Daily Return: -0.000784265037355
+Cumulative Return:  [ 0.77261883]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.0, 0.0, 0.6]
+Sharpe Ratio:  -0.369624312376
+Volatility (stdev of daily returns):  0.0195621190701
+Average Daily Return: -0.00045548717924
+Cumulative Return:  [ 0.85146188]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.4, 0.5, 0.1]
+Sharpe Ratio:  -0.463751885813
+Volatility (stdev of daily returns):  0.0242047359973
+Average Daily Return: -0.000707108028725
+Cumulative Return:  [ 0.77419626]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.5, 0.1, 0.0]
+Sharpe Ratio:  -0.586387344935
+Volatility (stdev of daily returns):  0.020462735253
+Average Daily Return: -0.000755871558103
+Cumulative Return:  [ 0.78452126]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.7, 0.0, 0.2]
+Sharpe Ratio:  -0.216043037418
+Volatility (stdev of daily returns):  0.0192449059287
+Average Daily Return: -0.000261912241101
+Cumulative Return:  [ 0.89472944]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.1, 0.3, 0.6, 0.0]
+Sharpe Ratio:  -0.579400896041
+Volatility (stdev of daily returns):  0.0261889677272
+Average Daily Return: -0.000955866568918
+Cumulative Return:  [ 0.71697841]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.9, 0.0, 0.0, 0.1]
+Sharpe Ratio:  -0.755208047082
+Volatility (stdev of daily returns):  0.0237175279754
+Average Daily Return: -0.00112832902504
+Cumulative Return:  [ 0.70252336]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.6, 0.0, 0.1, 0.3]
+Sharpe Ratio:  -0.647326683385
+Volatility (stdev of daily returns):  0.0214474882616
+Average Daily Return: -0.000874580274248
+Cumulative Return:  [ 0.75787125]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.0, 1.0, 0.0]
+Sharpe Ratio:  -0.536581630257
+Volatility (stdev of daily returns):  0.0348775159102
+Average Daily Return: -0.00117891115138
+Cumulative Return:  [ 0.63046045]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.5, 0.3, 0.2, 0.0]
+Sharpe Ratio:  -0.725502609751
+Volatility (stdev of daily returns):  0.0216801322326
+Average Daily Return: -0.000990833394453
+Cumulative Return:  [ 0.73388849]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.4, 0.6, 0.0]
+Sharpe Ratio:  -0.504537658903
+Volatility (stdev of daily returns):  0.0261437270281
+Average Daily Return: -0.000830923071178
+Cumulative Return:  [ 0.74018103]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.0, 0.6, 0.0]
+Sharpe Ratio:  -0.764208985063
+Volatility (stdev of daily returns):  0.02751570504
+Average Daily Return: -0.00132462367961
+Cumulative Return:  [ 0.64737053]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.0, 0.3, 0.3]
+Sharpe Ratio:  -0.634053095651
+Volatility (stdev of daily returns):  0.0223077273465
+Average Daily Return: -0.000891006114964
+Cumulative Return:  [ 0.74941621]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.4, 0.0, 0.2]
+Sharpe Ratio:  -0.482391970246
+Volatility (stdev of daily returns):  0.0192435731054
+Average Daily Return: -0.000584770578278
+Cumulative Return:  [ 0.82512156]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.2, 0.6, 0.2]
+Sharpe Ratio:  -0.479164674298
+Volatility (stdev of daily returns):  0.0256705211252
+Average Daily Return: -0.000774852801583
+Cumulative Return:  [ 0.75335119]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.4, 0.0, 0.1, 0.5]
+Sharpe Ratio:  -0.472284293599
+Volatility (stdev of daily returns):  0.0201888347378
+Average Daily Return: -0.000600640324287
+Cumulative Return:  [ 0.81744665]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.1, 0.8]
+Sharpe Ratio:  -0.0901127953023
+Volatility (stdev of daily returns):  0.0191427504517
+Average Daily Return: -0.000108665211387
+Cumulative Return:  [ 0.93001239]
+----------------------------------------------------------------
+Start Date:  2011-01-01 00:00:00
+End Date:  2011-12-31 00:00:00
+Symbols:  ['BRCM', 'ADBE', 'AMD', 'ADI']
+Optimal Allocations:  [0.0, 0.1, 0.6, 0.3]
+Sharpe Ratio:  -0.459853212552
+Volatility (stdev of daily returns):  0.0256241607564
+Average Daily Return: -0.000742281445318
+Cumulative Return:  [ 0.75993627]
+----------------------------------------------------------------
+the best allocation for ['BRCM', 'ADBE', 'AMD', 'ADI'] : [0.0, 0.0, 0.0, 1.0]
+its corresponding sharpe ratio is 0.045950
+
+Process finished with exit code 0

@@ -1,0 +1,2309 @@
+/usr/local/bin/python2.7 /Users/oansari2/Desktop/data.local/personal/coding/QuantitativeFinance/Coursera-ComputationalInvesting/CompInvesting-code/CompInvestI-Homework-1.py
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.0, 0.5, 0.3]
+Sharpe Ratio:  1.14689720749
+Volatility (stdev of daily returns):  0.0107238836732
+Average Daily Return: 0.000774776285461
+Cumulative Return:  [ 1.19591042]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.0, 0.2, 0.2]
+Sharpe Ratio:  1.13763932918
+Volatility (stdev of daily returns):  0.0157757328928
+Average Daily Return: 0.00113056066597
+Cumulative Return:  [ 1.2820344]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.0, 0.0, 0.4]
+Sharpe Ratio:  1.21227706481
+Volatility (stdev of daily returns):  0.0152426197777
+Average Daily Return: 0.00116402212399
+Cumulative Return:  [ 1.29658983]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.5, 0.4]
+Sharpe Ratio:  1.16171098819
+Volatility (stdev of daily returns):  0.00963584657005
+Average Daily Return: 0.000705160055048
+Cumulative Return:  [ 1.17983771]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.8, 0.1, 0.0]
+Sharpe Ratio:  1.0839819757
+Volatility (stdev of daily returns):  0.0156772442458
+Average Daily Return: 0.00107051193865
+Cumulative Return:  [ 1.26771505]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.2, 0.1, 0.3]
+Sharpe Ratio:  1.22295210268
+Volatility (stdev of daily returns):  0.0137817507323
+Average Daily Return: 0.0010617287275
+Cumulative Return:  [ 1.27185831]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.2, 0.8, 0.0]
+Sharpe Ratio:  0.90469777264
+Volatility (stdev of daily returns):  0.011353049515
+Average Daily Return: 0.000647017135609
+Cumulative Return:  [ 1.15662348]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.4, 0.3, 0.0]
+Sharpe Ratio:  1.10131707705
+Volatility (stdev of daily returns):  0.0148093525358
+Average Daily Return: 0.00102742037643
+Cumulative Return:  [ 1.2559218]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.1, 0.2, 0.3]
+Sharpe Ratio:  1.20715451512
+Volatility (stdev of daily returns):  0.0132735475234
+Average Daily Return: 0.0010093681618
+Cumulative Return:  [ 1.25723479]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.5, 0.2, 0.0]
+Sharpe Ratio:  1.11102422551
+Volatility (stdev of daily returns):  0.0154742161551
+Average Daily Return: 0.00108300863017
+Cumulative Return:  [ 1.27054532]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.0, 0.3, 0.4]
+Sharpe Ratio:  1.22818017257
+Volatility (stdev of daily returns):  0.0114314205552
+Average Daily Return: 0.000884427044187
+Cumulative Return:  [ 1.22653856]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.7, 0.0, 0.0]
+Sharpe Ratio:  1.11790545658
+Volatility (stdev of daily returns):  0.0170024244818
+Average Daily Return: 0.00119733495131
+Cumulative Return:  [ 1.29979237]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.2, 0.5, 0.0]
+Sharpe Ratio:  1.06316522489
+Volatility (stdev of daily returns):  0.0137270431069
+Average Daily Return: 0.000919342822762
+Cumulative Return:  [ 1.22667475]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.0, 0.2, 0.5]
+Sharpe Ratio:  1.27698033266
+Volatility (stdev of daily returns):  0.0112397724701
+Average Daily Return: 0.000904152022142
+Cumulative Return:  [ 1.23381627]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.4, 0.4, 0.1]
+Sharpe Ratio:  1.10831796515
+Volatility (stdev of daily returns):  0.0123107693029
+Average Daily Return: 0.000859506757502
+Cumulative Return:  [ 1.21649866]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.5, 0.0, 0.1]
+Sharpe Ratio:  1.15914983281
+Volatility (stdev of daily returns):  0.0163284814415
+Average Daily Return: 0.00119229879075
+Cumulative Return:  [ 1.30117346]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.4, 0.4, 0.0]
+Sharpe Ratio:  1.08138626099
+Volatility (stdev of daily returns):  0.0137186341559
+Average Daily Return: 0.000934526135903
+Cumulative Return:  [ 1.23257137]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.2, 0.7]
+Sharpe Ratio:  1.31884144154
+Volatility (stdev of daily returns):  0.00926345952466
+Average Daily Return: 0.000769600822653
+Cumulative Return:  [ 1.20167085]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.0, 0.5, 0.2]
+Sharpe Ratio:  1.11481054753
+Volatility (stdev of daily returns):  0.0120723911889
+Average Daily Return: 0.00084780133939
+Cumulative Return:  [ 1.21198313]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.3, 0.5, 0.1]
+Sharpe Ratio:  1.08556612236
+Volatility (stdev of daily returns):  0.0117781595668
+Average Daily Return: 0.000805440465753
+Cumulative Return:  [ 1.20187514]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.3, 0.6]
+Sharpe Ratio:  1.26302888407
+Volatility (stdev of daily returns):  0.00894169343403
+Average Daily Return: 0.000711431004647
+Cumulative Return:  [ 1.18566624]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.6, 0.4, 0.0]
+Sharpe Ratio:  1.03460994062
+Volatility (stdev of daily returns):  0.0132741840925
+Average Daily Return: 0.000865135658457
+Cumulative Return:  [ 1.21511757]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.5, 0.0, 0.4]
+Sharpe Ratio:  1.2727508927
+Volatility (stdev of daily returns):  0.0120859104776
+Average Daily Return: 0.000968997179555
+Cumulative Return:  [ 1.25295533]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.7, 0.1, 0.2, 0.0]
+Sharpe Ratio:  1.0814456483
+Volatility (stdev of daily returns):  0.0183734555366
+Average Daily Return: 0.00125168563974
+Cumulative Return:  [ 1.30545292]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.4, 0.1, 0.2]
+Sharpe Ratio:  1.19712427166
+Volatility (stdev of daily returns):  0.0140429196106
+Average Daily Return: 0.00105900101296
+Cumulative Return:  [ 1.27047723]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.9, 0.0]
+Sharpe Ratio:  0.871362109872
+Volatility (stdev of daily returns):  0.0115270377164
+Average Daily Return: 0.000632726632514
+Cumulative Return:  [ 1.15072685]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.8, 0.1]
+Sharpe Ratio:  0.918811794461
+Volatility (stdev of daily returns):  0.0105703031894
+Average Daily Return: 0.000611806005149
+Cumulative Return:  [ 1.14927767]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.6, 0.3, 0.0]
+Sharpe Ratio:  1.0762396137
+Volatility (stdev of daily returns):  0.0140837606116
+Average Daily Return: 0.000954832817977
+Cumulative Return:  [ 1.238468]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.2, 0.6, 0.1]
+Sharpe Ratio:  1.05137277508
+Volatility (stdev of daily returns):  0.0113599714674
+Average Daily Return: 0.000752373857954
+Cumulative Return:  [ 1.18725161]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.4, 0.5]
+Sharpe Ratio:  1.20905337514
+Volatility (stdev of daily returns):  0.00905432919343
+Average Daily Return: 0.000689606718083
+Cumulative Return:  [ 1.17838852]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.1, 0.6, 0.2]
+Sharpe Ratio:  1.0774651466
+Volatility (stdev of daily returns):  0.0105762594243
+Average Daily Return: 0.000717852232458
+Cumulative Return:  [ 1.1799058]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.2, 0.2, 0.0]
+Sharpe Ratio:  1.09474463892
+Volatility (stdev of daily returns):  0.0174935036363
+Average Daily Return: 0.00120639452151
+Cumulative Return:  [ 1.29672602]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.4, 0.1, 0.1]
+Sharpe Ratio:  1.15457682272
+Volatility (stdev of daily returns):  0.0156285320285
+Average Daily Return: 0.00113668663023
+Cumulative Return:  [ 1.28654993]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.8, 0.1, 0.0, 0.1]
+Sharpe Ratio:  1.11502962438
+Volatility (stdev of daily returns):  0.0194223828627
+Average Daily Return: 0.00136423330098
+Cumulative Return:  [ 1.33608106]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.6, 0.0, 0.4]
+Sharpe Ratio:  1.24101182419
+Volatility (stdev of daily returns):  0.0119801386977
+Average Daily Return: 0.000936564075208
+Cumulative Return:  [ 1.24422843]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.0, 0.5, 0.1]
+Sharpe Ratio:  1.07817102223
+Volatility (stdev of daily returns):  0.0136092306597
+Average Daily Return: 0.000924317040606
+Cumulative Return:  [ 1.22805584]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.2, 0.3, 0.4]
+Sharpe Ratio:  1.25077513256
+Volatility (stdev of daily returns):  0.01025362272
+Average Daily Return: 0.000807897569153
+Cumulative Return:  [ 1.20908476]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.4, 0.4, 0.2]
+Sharpe Ratio:  1.12351771327
+Volatility (stdev of daily returns):  0.011136459842
+Average Daily Return: 0.000788182537744
+Cumulative Return:  [ 1.20042595]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.2, 0.2, 0.4]
+Sharpe Ratio:  1.27231578397
+Volatility (stdev of daily returns):  0.0111920957448
+Average Daily Return: 0.000897028127842
+Cumulative Return:  [ 1.23243518]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.2, 0.3, 0.2]
+Sharpe Ratio:  1.17437211994
+Volatility (stdev of daily returns):  0.0128611878871
+Average Daily Return: 0.000951451258277
+Cumulative Return:  [ 1.24123018]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.0, 0.4, 0.4]
+Sharpe Ratio:  1.20952266424
+Volatility (stdev of daily returns):  0.0104213833991
+Average Daily Return: 0.000794034027392
+Cumulative Return:  [ 1.20318813]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.4, 0.0, 0.0]
+Sharpe Ratio:  1.11684652488
+Volatility (stdev of daily returns):  0.0187009952741
+Average Daily Return: 0.00131570324948
+Cumulative Return:  [ 1.32597307]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.1, 0.4, 0.4]
+Sharpe Ratio:  1.21560890515
+Volatility (stdev of daily returns):  0.00987340767108
+Average Daily Return: 0.000756067677196
+Cumulative Return:  [ 1.19446123]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.0, 1.0]
+Sharpe Ratio:  1.29889334008
+Volatility (stdev of daily returns):  0.00924299255937
+Average Daily Return: 0.000756285585593
+Cumulative Return:  [ 1.20015357]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.2, 0.4, 0.3]
+Sharpe Ratio:  1.18877120345
+Volatility (stdev of daily returns):  0.0105277832134
+Average Daily Return: 0.000788378803649
+Cumulative Return:  [ 1.20180704]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.1, 0.4, 0.3]
+Sharpe Ratio:  1.18957324619
+Volatility (stdev of daily returns):  0.0110212388263
+Average Daily Return: 0.000825888333551
+Cumulative Return:  [ 1.21053394]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.1, 0.3, 0.4]
+Sharpe Ratio:  1.24854263882
+Volatility (stdev of daily returns):  0.0107445670391
+Average Daily Return: 0.000845068722567
+Cumulative Return:  [ 1.21781166]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.7, 0.2]
+Sharpe Ratio:  0.995647762822
+Volatility (stdev of daily returns):  0.0100400590604
+Average Daily Return: 0.000629711637442
+Cumulative Return:  [ 1.15655538]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.5, 0.3, 0.2]
+Sharpe Ratio:  1.13898077452
+Volatility (stdev of daily returns):  0.0117487878355
+Average Daily Return: 0.000842964303602
+Cumulative Return:  [ 1.21504948]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.1, 0.1, 0.7]
+Sharpe Ratio:  1.36046684681
+Volatility (stdev of daily returns):  0.00957139082756
+Average Daily Return: 0.000820281170814
+Cumulative Return:  [ 1.21629438]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.2, 0.0, 0.5]
+Sharpe Ratio:  1.31500186186
+Volatility (stdev of daily returns):  0.0121589779113
+Average Daily Return: 0.0010072172773
+Cumulative Return:  [ 1.26306332]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.2, 0.2, 0.3]
+Sharpe Ratio:  1.22614503055
+Volatility (stdev of daily returns):  0.0125464457944
+Average Daily Return: 0.000969085926404
+Cumulative Return:  [ 1.24850789]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.1, 0.0, 0.4]
+Sharpe Ratio:  1.24008284534
+Volatility (stdev of daily returns):  0.0143494512426
+Average Daily Return: 0.00112094866031
+Cumulative Return:  [ 1.28786293]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.8, 0.2, 0.0, 0.0]
+Sharpe Ratio:  1.09686621078
+Volatility (stdev of daily returns):  0.020334152429
+Average Daily Return: 0.00140501015288
+Cumulative Return:  [ 1.34342687]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.5, 0.0, 0.0]
+Sharpe Ratio:  1.12247977764
+Volatility (stdev of daily returns):  0.0180184448968
+Average Daily Return: 0.00127407666376
+Cumulative Return:  [ 1.31724617]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.3, 0.2, 0.3]
+Sharpe Ratio:  1.23379859694
+Volatility (stdev of daily returns):  0.0119779773848
+Average Daily Return: 0.000930952431155
+Cumulative Return:  [ 1.23978099]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.1, 0.2, 0.4]
+Sharpe Ratio:  1.25673188407
+Volatility (stdev of daily returns):  0.0118180593818
+Average Daily Return: 0.000935596376147
+Cumulative Return:  [ 1.24116208]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.0, 0.2, 0.6]
+Sharpe Ratio:  1.31266715106
+Volatility (stdev of daily returns):  0.0101013940551
+Average Daily Return: 0.000835286880549
+Cumulative Return:  [ 1.21774356]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.1, 0.0, 0.7]
+Sharpe Ratio:  1.37716024562
+Volatility (stdev of daily returns):  0.0104660008437
+Average Daily Return: 0.000907956354546
+Cumulative Return:  [ 1.2396448]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.3, 0.0, 0.7]
+Sharpe Ratio:  1.35821093463
+Volatility (stdev of daily returns):  0.00979291343924
+Average Daily Return: 0.000837874296768
+Cumulative Return:  [ 1.222191]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.0, 0.4, 0.3]
+Sharpe Ratio:  1.17353669099
+Volatility (stdev of daily returns):  0.0117093616541
+Average Daily Return: 0.000865624663448
+Cumulative Return:  [ 1.21926084]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.4, 0.2, 0.0]
+Sharpe Ratio:  1.11149531678
+Volatility (stdev of daily returns):  0.016023999954
+Average Daily Return: 0.0011219623975
+Cumulative Return:  [ 1.27927222]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.0, 0.2, 0.3]
+Sharpe Ratio:  1.18170079114
+Volatility (stdev of daily returns):  0.0141282081158
+Average Daily Return: 0.00105170597088
+Cumulative Return:  [ 1.26596169]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.5, 0.1, 0.1]
+Sharpe Ratio:  1.15611959395
+Volatility (stdev of daily returns):  0.015077691808
+Average Daily Return: 0.00109808852517
+Cumulative Return:  [ 1.27782304]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.7, 0.0, 0.1, 0.2]
+Sharpe Ratio:  1.13505726457
+Volatility (stdev of daily returns):  0.0171681952997
+Average Daily Return: 0.001227558357
+Cumulative Return:  [ 1.30538482]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.3, 0.4, 0.0]
+Sharpe Ratio:  1.08579424132
+Volatility (stdev of daily returns):  0.0142235102729
+Average Daily Return: 0.000972868304058
+Cumulative Return:  [ 1.24129827]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.1, 0.1, 0.6]
+Sharpe Ratio:  1.34378892699
+Volatility (stdev of daily returns):  0.0104683652134
+Average Daily Return: 0.000886154920574
+Cumulative Return:  [ 1.23236709]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.1, 0.4, 0.1]
+Sharpe Ratio:  1.10830280007
+Volatility (stdev of daily returns):  0.0139782913636
+Average Daily Return: 0.000975915574126
+Cumulative Return:  [ 1.24267936]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.8, 0.0, 0.0, 0.2]
+Sharpe Ratio:  1.13144485533
+Volatility (stdev of daily returns):  0.0186018977108
+Average Daily Return: 0.00132583772936
+Cumulative Return:  [ 1.32873525]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.3, 0.0, 0.6]
+Sharpe Ratio:  1.35807895881
+Volatility (stdev of daily returns):  0.0105459311521
+Average Daily Return: 0.000902214249367
+Cumulative Return:  [ 1.23826371]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.2, 0.0, 0.4]
+Sharpe Ratio:  1.26408350874
+Volatility (stdev of daily returns):  0.0135605225563
+Average Daily Return: 0.00107982137636
+Cumulative Return:  [ 1.27913603]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.6, 0.3]
+Sharpe Ratio:  1.09183153573
+Volatility (stdev of daily returns):  0.00996655025925
+Average Daily Return: 0.000685488581256
+Cumulative Return:  [ 1.17255999]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.1, 0.5, 0.3]
+Sharpe Ratio:  1.14889536842
+Volatility (stdev of daily returns):  0.0101758471439
+Average Daily Return: 0.000736462745918
+Cumulative Return:  [ 1.18718352]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.9, 0.1, 0.0, 0.0]
+Sharpe Ratio:  1.08476452774
+Volatility (stdev of daily returns):  0.0212563188415
+Average Daily Return: 0.00145252381136
+Cumulative Return:  [ 1.35215376]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.0, 0.0, 0.7]
+Sharpe Ratio:  1.35166833255
+Volatility (stdev of daily returns):  0.0111120732173
+Average Daily Return: 0.000946160826102
+Cumulative Return:  [ 1.2483717]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.1, 0.8]
+Sharpe Ratio:  1.34721751355
+Volatility (stdev of daily returns):  0.00934072403901
+Average Daily Return: 0.000792716670054
+Cumulative Return:  [ 1.20894857]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.3, 0.0, 0.2]
+Sharpe Ratio:  1.18491524103
+Volatility (stdev of daily returns):  0.0159809713498
+Average Daily Return: 0.00119286195693
+Cumulative Return:  [ 1.30255455]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.4, 0.2, 0.2]
+Sharpe Ratio:  1.19017248473
+Volatility (stdev of daily returns):  0.0128986982749
+Average Daily Return: 0.000967064674052
+Cumulative Return:  [ 1.2471268]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.1, 0.0, 0.3]
+Sharpe Ratio:  1.1927327739
+Volatility (stdev of daily returns):  0.0159519953528
+Average Daily Return: 0.00119855480412
+Cumulative Return:  [ 1.30393564]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.3, 0.3, 0.2]
+Sharpe Ratio:  1.17905671747
+Volatility (stdev of daily returns):  0.012291886728
+Average Daily Return: 0.000912962577421
+Cumulative Return:  [ 1.23250328]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.9, 0.1]
+Sharpe Ratio:  0.845779060363
+Volatility (stdev of daily returns):  0.0105270387298
+Average Daily Return: 0.000560870862913
+Cumulative Return:  [ 1.13465414]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.5, 0.4]
+Sharpe Ratio:  1.14427361095
+Volatility (stdev of daily returns):  0.00927651372994
+Average Daily Return: 0.000668673948959
+Cumulative Return:  [ 1.17111081]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.9, 0.0, 0.1, 0.0]
+Sharpe Ratio:  1.06995094818
+Volatility (stdev of daily returns):  0.0207675944855
+Average Daily Return: 0.0013997477968
+Cumulative Return:  [ 1.33753024]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.1, 0.7, 0.0]
+Sharpe Ratio:  0.99291337746
+Volatility (stdev of daily returns):  0.0123825251834
+Average Daily Return: 0.00077449801939
+Cumulative Return:  [ 1.1887008]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.4, 0.5]
+Sharpe Ratio:  1.22463411719
+Volatility (stdev of daily returns):  0.00940793353872
+Average Daily Return: 0.000725772192797
+Cumulative Return:  [ 1.18711542]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.2, 0.4, 0.1]
+Sharpe Ratio:  1.11956100143
+Volatility (stdev of daily returns):  0.013255434734
+Average Daily Return: 0.000934848998791
+Cumulative Return:  [ 1.23395246]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.4, 0.3, 0.2]
+Sharpe Ratio:  1.16843312253
+Volatility (stdev of daily returns):  0.0119118461329
+Average Daily Return: 0.000876763909115
+Cumulative Return:  [ 1.22377638]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.2, 0.3, 0.0]
+Sharpe Ratio:  1.09032813293
+Volatility (stdev of daily returns):  0.0161492749886
+Average Daily Return: 0.0011092002974
+Cumulative Return:  [ 1.27337559]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.3, 0.0, 0.4]
+Sharpe Ratio:  1.28053757645
+Volatility (stdev of daily returns):  0.0129016176651
+Average Daily Return: 0.00104072556807
+Cumulative Return:  [ 1.27040913]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.2, 0.2, 0.6]
+Sharpe Ratio:  1.30485507724
+Volatility (stdev of daily returns):  0.0092821286467
+Average Daily Return: 0.000762973743452
+Cumulative Return:  [ 1.20028976]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.0, 0.4, 0.1]
+Sharpe Ratio:  1.09100277459
+Volatility (stdev of daily returns):  0.0148284662457
+Average Daily Return: 0.00101911177047
+Cumulative Return:  [ 1.25140626]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.2, 0.3, 0.3]
+Sharpe Ratio:  1.21785259372
+Volatility (stdev of daily returns):  0.0114438617198
+Average Daily Return: 0.000877944487787
+Cumulative Return:  [ 1.22515747]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.7, 0.2, 0.0]
+Sharpe Ratio:  1.08209383013
+Volatility (stdev of daily returns):  0.0148482869175
+Average Daily Return: 0.00101214096189
+Cumulative Return:  [ 1.25309152]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.5, 0.1, 0.2]
+Sharpe Ratio:  1.19390341272
+Volatility (stdev of daily returns):  0.0135909072045
+Average Daily Return: 0.0010221564429
+Cumulative Return:  [ 1.26175033]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.1, 0.2, 0.2]
+Sharpe Ratio:  1.15967632469
+Volatility (stdev of daily returns):  0.014873851952
+Average Daily Return: 0.00108657566652
+Cumulative Return:  [ 1.2733075]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.5, 0.2, 0.2]
+Sharpe Ratio:  1.17630009048
+Volatility (stdev of daily returns):  0.012573516271
+Average Daily Return: 0.000931696809225
+Cumulative Return:  [ 1.2383999]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.1, 0.5, 0.0]
+Sharpe Ratio:  1.05613814523
+Volatility (stdev of daily returns):  0.0144414255608
+Average Daily Return: 0.000960794535151
+Cumulative Return:  [ 1.23540165]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.0, 0.8, 0.0]
+Sharpe Ratio:  0.943426366855
+Volatility (stdev of daily returns):  0.0121685632629
+Average Daily Return: 0.000723181060198
+Cumulative Return:  [ 1.17407727]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.1, 0.4, 0.2]
+Sharpe Ratio:  1.14997989895
+Volatility (stdev of daily returns):  0.0124119138017
+Average Daily Return: 0.000899142921446
+Cumulative Return:  [ 1.22660665]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.0, 0.0, 0.5]
+Sharpe Ratio:  1.25991062316
+Volatility (stdev of daily returns):  0.0137106833333
+Average Daily Return: 0.00108817455808
+Cumulative Return:  [ 1.28051712]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.7, 0.0, 0.3, 0.0]
+Sharpe Ratio:  1.06234911166
+Volatility (stdev of daily returns):  0.0179220850996
+Average Daily Return: 0.00119937646854
+Cumulative Return:  [ 1.29082939]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.6, 0.0, 0.2]
+Sharpe Ratio:  1.19230277518
+Volatility (stdev of daily returns):  0.0143559585861
+Average Daily Return: 0.00107824755303
+Cumulative Return:  [ 1.27637385]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.1, 0.6, 0.1]
+Sharpe Ratio:  1.05956147354
+Volatility (stdev of daily returns):  0.0118439858596
+Average Daily Return: 0.000790539852673
+Cumulative Return:  [ 1.19597851]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.4, 0.1, 0.5]
+Sharpe Ratio:  1.29164009616
+Volatility (stdev of daily returns):  0.0104125052951
+Average Daily Return: 0.000847220553466
+Cumulative Return:  [ 1.2222591]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.1, 0.8, 0.0]
+Sharpe Ratio:  0.93182715404
+Volatility (stdev of daily returns):  0.0116503090055
+Average Daily Return: 0.000683868399302
+Cumulative Return:  [ 1.16535037]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.6, 0.0, 0.3]
+Sharpe Ratio:  1.22282602328
+Volatility (stdev of daily returns):  0.0130547806519
+Average Daily Return: 0.00100562018323
+Cumulative Return:  [ 1.26030114]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.5, 0.1, 0.3]
+Sharpe Ratio:  1.22714459174
+Volatility (stdev of daily returns):  0.012287462699
+Average Daily Return: 0.00094985580178
+Cumulative Return:  [ 1.24567762]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.4, 0.0, 0.1]
+Sharpe Ratio:  1.15380946614
+Volatility (stdev of daily returns):  0.0169535936779
+Average Daily Return: 0.00123224083766
+Cumulative Return:  [ 1.30990036]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.2, 0.8]
+Sharpe Ratio:  1.27447885781
+Volatility (stdev of daily returns):  0.00880658471097
+Average Daily Return: 0.000707033321478
+Cumulative Return:  [ 1.18559814]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.0, 0.4, 0.2]
+Sharpe Ratio:  1.13149190545
+Volatility (stdev of daily returns):  0.0131966510319
+Average Daily Return: 0.000940621526488
+Cumulative Return:  [ 1.23533355]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.2, 0.7, 0.0]
+Sharpe Ratio:  0.981087313571
+Volatility (stdev of daily returns):  0.0119091279195
+Average Daily Return: 0.000736016159735
+Cumulative Return:  [ 1.1799739]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.5, 0.1, 0.4]
+Sharpe Ratio:  1.24612356515
+Volatility (stdev of daily returns):  0.0112244137829
+Average Daily Return: 0.000881098591373
+Cumulative Return:  [ 1.22960491]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.5, 0.0, 0.2]
+Sharpe Ratio:  1.19902938403
+Volatility (stdev of daily returns):  0.0147522112714
+Average Daily Return: 0.00111426035646
+Cumulative Return:  [ 1.28510075]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.7, 0.0, 0.0, 0.3]
+Sharpe Ratio:  1.16910006655
+Volatility (stdev of daily returns):  0.0168808142752
+Average Daily Return: 0.0012432108925
+Cumulative Return:  [ 1.31266254]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.8, 0.1, 0.1, 0.0]
+Sharpe Ratio:  1.08355066628
+Volatility (stdev of daily returns):  0.0197993300896
+Average Daily Return: 0.00135144834038
+Cumulative Return:  [ 1.32880334]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.3, 0.1, 0.4]
+Sharpe Ratio:  1.2834450413
+Volatility (stdev of daily returns):  0.0117492444575
+Average Daily Return: 0.000949919812622
+Cumulative Return:  [ 1.24705871]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.3, 0.3, 0.3]
+Sharpe Ratio:  1.21314655856
+Volatility (stdev of daily returns):  0.0110080162296
+Average Daily Return: 0.000841244158112
+Cumulative Return:  [ 1.21643057]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 1.0, 0.0, 0.0]
+Sharpe Ratio:  1.05265549199
+Volatility (stdev of daily returns):  0.0165894191866
+Average Daily Return: 0.00110006202161
+Cumulative Return:  [ 1.27361167]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.4, 0.0, 0.5]
+Sharpe Ratio:  1.31954016538
+Volatility (stdev of daily returns):  0.0112431573049
+Average Daily Return: 0.000934567406708
+Cumulative Return:  [ 1.24560952]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.2, 0.0, 0.3]
+Sharpe Ratio:  1.21431580906
+Volatility (stdev of daily returns):  0.0151096208346
+Average Daily Return: 0.00115580600059
+Cumulative Return:  [ 1.29520874]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.4, 0.6]
+Sharpe Ratio:  1.19763430226
+Volatility (stdev of daily returns):  0.00875844869853
+Average Daily Return: 0.000660771261966
+Cumulative Return:  [ 1.17104271]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.0, 0.6, 0.2]
+Sharpe Ratio:  1.08007959711
+Volatility (stdev of daily returns):  0.0111187825478
+Average Daily Return: 0.000756506612722
+Cumulative Return:  [ 1.1886327]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.3, 0.6]
+Sharpe Ratio:  1.27769654851
+Volatility (stdev of daily returns):  0.00928431672382
+Average Daily Return: 0.00074726974424
+Cumulative Return:  [ 1.19439314]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.1, 0.5, 0.2]
+Sharpe Ratio:  1.12581887057
+Volatility (stdev of daily returns):  0.0113887839665
+Average Daily Return: 0.000807691678394
+Cumulative Return:  [ 1.20325623]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.2, 0.0, 0.2]
+Sharpe Ratio:  1.16927934387
+Volatility (stdev of daily returns):  0.0167703225349
+Average Daily Return: 0.00123526296974
+Cumulative Return:  [ 1.31128145]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.4, 0.5, 0.0]
+Sharpe Ratio:  1.04642917438
+Volatility (stdev of daily returns):  0.0127939342816
+Average Daily Return: 0.000843361331271
+Cumulative Return:  [ 1.20922095]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.1, 0.0, 0.5]
+Sharpe Ratio:  1.29095444961
+Volatility (stdev of daily returns):  0.012871005725
+Average Daily Return: 0.00104670218766
+Cumulative Return:  [ 1.27179022]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.8, 0.2]
+Sharpe Ratio:  0.92167823598
+Volatility (stdev of daily returns):  0.00996929018823
+Average Daily Return: 0.000578819694569
+Cumulative Return:  [ 1.14193185]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.0, 0.3, 0.2]
+Sharpe Ratio:  1.13745590892
+Volatility (stdev of daily returns):  0.0144431654351
+Average Daily Return: 0.00103489594801
+Cumulative Return:  [ 1.25868397]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.0, 0.7, 0.0]
+Sharpe Ratio:  0.992361369705
+Volatility (stdev of daily returns):  0.0130426927732
+Average Daily Return: 0.000815336423278
+Cumulative Return:  [ 1.1974277]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.2, 0.0, 0.6]
+Sharpe Ratio:  1.35908122591
+Volatility (stdev of daily returns):  0.010955105636
+Average Daily Return: 0.000937911179549
+Cumulative Return:  [ 1.24699061]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.2, 0.4, 0.4]
+Sharpe Ratio:  1.19562600302
+Volatility (stdev of daily returns):  0.0095646113888
+Average Daily Return: 0.000720381266715
+Cumulative Return:  [ 1.18573433]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.5, 0.2, 0.3]
+Sharpe Ratio:  1.19538826104
+Volatility (stdev of daily returns):  0.0114410076087
+Average Daily Return: 0.000861535129462
+Cumulative Return:  [ 1.22232719]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.9, 0.0, 0.1]
+Sharpe Ratio:  1.09476796502
+Volatility (stdev of daily returns):  0.015303146506
+Average Daily Return: 0.00105536465758
+Cumulative Return:  [ 1.26626586]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.1, 0.5, 0.1]
+Sharpe Ratio:  1.09168412457
+Volatility (stdev of daily returns):  0.0128318160079
+Average Daily Return: 0.000882439313591
+Cumulative Return:  [ 1.21932894]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.7, 0.0, 0.3]
+Sharpe Ratio:  1.19037856969
+Volatility (stdev of daily returns):  0.0129857601881
+Average Daily Return: 0.000973760621065
+Cumulative Return:  [ 1.25157424]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.4, 0.1, 0.0]
+Sharpe Ratio:  1.1158055073
+Volatility (stdev of daily returns):  0.0173295434677
+Average Daily Return: 0.00121807870852
+Cumulative Return:  [ 1.30262264]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.5, 0.5, 0.0]
+Sharpe Ratio:  1.01690882108
+Volatility (stdev of daily returns):  0.0126298177301
+Average Daily Return: 0.000809056454943
+Cumulative Return:  [ 1.20049405]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.2, 0.1, 0.6]
+Sharpe Ratio:  1.34903064764
+Volatility (stdev of daily returns):  0.00999842956604
+Average Daily Return: 0.000849675972723
+Cumulative Return:  [ 1.22364019]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.3, 0.2, 0.4]
+Sharpe Ratio:  1.2696662719
+Volatility (stdev of daily returns):  0.0107607070386
+Average Daily Return: 0.000860657029731
+Cumulative Return:  [ 1.22370828]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.4, 0.0, 0.4]
+Sharpe Ratio:  1.28491834942
+Volatility (stdev of daily returns):  0.0124008413444
+Average Daily Return: 0.00100375197302
+Cumulative Return:  [ 1.26168223]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.0, 0.5, 0.0]
+Sharpe Ratio:  1.0432966821
+Volatility (stdev of daily returns):  0.0152829005933
+Average Daily Return: 0.00100441535675
+Cumulative Return:  [ 1.24412854]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.7, 0.3, 0.0]
+Sharpe Ratio:  1.04542029168
+Volatility (stdev of daily returns):  0.0140044117526
+Average Daily Return: 0.000922264573017
+Cumulative Return:  [ 1.2297411]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.8, 0.1, 0.1]
+Sharpe Ratio:  1.0972403701
+Volatility (stdev of daily returns):  0.0144144874371
+Average Daily Return: 0.000996324274325
+Cumulative Return:  [ 1.25164234]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.2, 0.4, 0.2]
+Sharpe Ratio:  1.15831088574
+Volatility (stdev of daily returns):  0.0117840158035
+Average Daily Return: 0.000859841067062
+Cumulative Return:  [ 1.21787975]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.3, 0.5, 0.0]
+Sharpe Ratio:  1.06104926046
+Volatility (stdev of daily returns):  0.0131682304877
+Average Daily Return: 0.000880162165535
+Cumulative Return:  [ 1.21794785]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.8, 0.1]
+Sharpe Ratio:  0.943896090421
+Volatility (stdev of daily returns):  0.0109184069683
+Average Daily Return: 0.000649207001422
+Cumulative Return:  [ 1.15800456]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.9, 0.0]
+Sharpe Ratio:  0.844159739405
+Volatility (stdev of daily returns):  0.0111897922803
+Average Daily Return: 0.000595040313364
+Cumulative Return:  [ 1.14199995]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.1, 0.2, 0.6]
+Sharpe Ratio:  1.32346875541
+Volatility (stdev of daily returns):  0.00957207046862
+Average Daily Return: 0.000798030168649
+Cumulative Return:  [ 1.20901666]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.0, 0.9]
+Sharpe Ratio:  1.34521036004
+Volatility (stdev of daily returns):  0.00922513838953
+Average Daily Return: 0.000781740879077
+Cumulative Return:  [ 1.20749938]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.4, 0.0, 0.3]
+Sharpe Ratio:  1.24079740597
+Volatility (stdev of daily returns):  0.0137708131231
+Average Daily Return: 0.00107636654598
+Cumulative Return:  [ 1.27775494]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.4, 0.2, 0.3]
+Sharpe Ratio:  1.22488183343
+Volatility (stdev of daily returns):  0.0116000958635
+Average Daily Return: 0.000895066909086
+Cumulative Return:  [ 1.23105409]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.3, 0.3, 0.0]
+Sharpe Ratio:  1.0990821751
+Volatility (stdev of daily returns):  0.0154142141932
+Average Daily Return: 0.00106721343462
+Cumulative Return:  [ 1.2646487]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.3, 0.4, 0.1]
+Sharpe Ratio:  1.12090537876
+Volatility (stdev of daily returns):  0.0126895031678
+Average Daily Return: 0.000896010917273
+Cumulative Return:  [ 1.22522556]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.3, 0.1, 0.3]
+Sharpe Ratio:  1.23720493618
+Volatility (stdev of daily returns):  0.0131163640821
+Average Daily Return: 0.00102224462791
+Cumulative Return:  [ 1.26313142]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.5, 0.0, 0.3]
+Sharpe Ratio:  1.23900907636
+Volatility (stdev of daily returns):  0.0133229271776
+Average Daily Return: 0.00103985760288
+Cumulative Return:  [ 1.26902804]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.8, 0.0, 0.0]
+Sharpe Ratio:  1.1048073296
+Volatility (stdev of daily returns):  0.0167023359122
+Average Daily Return: 0.0011624211152
+Cumulative Return:  [ 1.29106547]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.2, 0.0, 0.8]
+Sharpe Ratio:  1.36470950526
+Volatility (stdev of daily returns):  0.00940933653066
+Average Daily Return: 0.000808907659355
+Cumulative Return:  [ 1.21484519]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.0, 0.0, 0.8]
+Sharpe Ratio:  1.37574867105
+Volatility (stdev of daily returns):  0.0101523701123
+Average Daily Return: 0.000879845208903
+Cumulative Return:  [ 1.23229899]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.9, 0.1, 0.0]
+Sharpe Ratio:  1.05311567984
+Volatility (stdev of daily returns):  0.0156725221528
+Average Daily Return: 0.00103971593706
+Cumulative Return:  [ 1.25898815]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.1, 0.0, 0.6]
+Sharpe Ratio:  1.34014976086
+Volatility (stdev of daily returns):  0.0115578400793
+Average Daily Return: 0.000975730192627
+Cumulative Return:  [ 1.25571751]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.7, 0.3, 0.0, 0.0]
+Sharpe Ratio:  1.1078922828
+Volatility (stdev of daily returns):  0.0194779144374
+Average Daily Return: 0.00135937638331
+Cumulative Return:  [ 1.33469997]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.3, 0.0, 0.5]
+Sharpe Ratio:  1.32651722365
+Volatility (stdev of daily returns):  0.01160574583
+Average Daily Return: 0.00096980781177
+Cumulative Return:  [ 1.25433642]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.6, 0.2, 0.2]
+Sharpe Ratio:  1.14534417191
+Volatility (stdev of daily returns):  0.0124565677584
+Average Daily Return: 0.000898740131291
+Cumulative Return:  [ 1.229673]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.2, 0.5, 0.2]
+Sharpe Ratio:  1.12141460809
+Volatility (stdev of daily returns):  0.010897836245
+Average Daily Return: 0.000769850181471
+Cumulative Return:  [ 1.19452933]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.2, 0.1, 0.7]
+Sharpe Ratio:  1.34130600623
+Volatility (stdev of daily returns):  0.00929705008896
+Average Daily Return: 0.0007855480768
+Cumulative Return:  [ 1.20756748]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.8, 0.0, 0.2]
+Sharpe Ratio:  1.14098729307
+Volatility (stdev of daily returns):  0.0140981999936
+Average Daily Return: 0.00101331437694
+Cumulative Return:  [ 1.25892005]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [1.0, 0.0, 0.0, 0.0]
+Sharpe Ratio:  1.0723348068
+Volatility (stdev of daily returns):  0.0222327890438
+Average Daily Return: 0.0015018414268
+Cumulative Return:  [ 1.36088066]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.2, 0.1, 0.2]
+Sharpe Ratio:  1.17514996794
+Volatility (stdev of daily returns):  0.0153892585707
+Average Daily Return: 0.00113922818069
+Cumulative Return:  [ 1.28793102]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.3, 0.7, 0.0]
+Sharpe Ratio:  0.953411801451
+Volatility (stdev of daily returns):  0.0116552562348
+Average Daily Return: 0.000700006509602
+Cumulative Return:  [ 1.171247]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.1, 0.3, 0.5]
+Sharpe Ratio:  1.27463951911
+Volatility (stdev of daily returns):  0.00967197161946
+Average Daily Return: 0.000776608469229
+Cumulative Return:  [ 1.20173895]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.2, 0.1, 0.1]
+Sharpe Ratio:  1.13276497605
+Volatility (stdev of daily returns):  0.0171010551188
+Average Daily Return: 0.0012202883047
+Cumulative Return:  [ 1.30400373]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.9, 0.0, 0.0]
+Sharpe Ratio:  1.08312336887
+Volatility (stdev of daily returns):  0.0165609179534
+Average Daily Return: 0.00112995737545
+Cumulative Return:  [ 1.28233857]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.3, 0.7]
+Sharpe Ratio:  1.24292463306
+Volatility (stdev of daily returns):  0.00872966219189
+Average Daily Return: 0.000683505420633
+Cumulative Return:  [ 1.17832043]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.8, 0.0, 0.1, 0.1]
+Sharpe Ratio:  1.0997003384
+Volatility (stdev of daily returns):  0.0189367224901
+Average Daily Return: 0.00131183406162
+Cumulative Return:  [ 1.32145753]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.4, 0.3, 0.3]
+Sharpe Ratio:  1.18610411314
+Volatility (stdev of daily returns):  0.0107991580988
+Average Daily Return: 0.000806886484119
+Cumulative Return:  [ 1.20770367]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.2, 0.2, 0.5]
+Sharpe Ratio:  1.30487516895
+Volatility (stdev of daily returns):  0.0100773010216
+Average Daily Return: 0.000828348190932
+Cumulative Return:  [ 1.21636247]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.2, 0.5, 0.1]
+Sharpe Ratio:  1.09569548734
+Volatility (stdev of daily returns):  0.0122102332681
+Average Daily Return: 0.000842778724474
+Cumulative Return:  [ 1.21060204]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.5, 0.4, 0.0]
+Sharpe Ratio:  1.06492264469
+Volatility (stdev of daily returns):  0.0133948308581
+Average Daily Return: 0.00089857643605
+Cumulative Return:  [ 1.22384447]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.4, 0.2, 0.4]
+Sharpe Ratio:  1.24286869236
+Volatility (stdev of daily returns):  0.0105575421301
+Average Daily Return: 0.000826585535265
+Cumulative Return:  [ 1.21498138]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.2, 0.0, 0.7]
+Sharpe Ratio:  1.38203909225
+Volatility (stdev of daily returns):  0.0100140909186
+Average Daily Return: 0.000871829554609
+Cumulative Return:  [ 1.2309179]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.6, 0.1, 0.2]
+Sharpe Ratio:  1.17719179435
+Volatility (stdev of daily returns):  0.0133182036719
+Average Daily Return: 0.000987626212417
+Cumulative Return:  [ 1.25302343]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.8, 0.2, 0.0]
+Sharpe Ratio:  1.05109515483
+Volatility (stdev of daily returns):  0.0148076290599
+Average Daily Return: 0.000980454152683
+Cumulative Return:  [ 1.24436462]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.4, 0.0, 0.6]
+Sharpe Ratio:  1.33081193685
+Volatility (stdev of daily returns):  0.0103626645388
+Average Daily Return: 0.000868736075592
+Cumulative Return:  [ 1.22953681]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.1, 0.3, 0.0]
+Sharpe Ratio:  1.07743976691
+Volatility (stdev of daily returns):  0.0169919733404
+Average Daily Return: 0.00115328474743
+Cumulative Return:  [ 1.28210249]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.1, 0.4, 0.0]
+Sharpe Ratio:  1.06987799685
+Volatility (stdev of daily returns):  0.0156730507011
+Average Daily Return: 0.00105630059399
+Cumulative Return:  [ 1.25875207]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.7, 0.1, 0.0, 0.2]
+Sharpe Ratio:  1.150914976
+Volatility (stdev of daily returns):  0.0176496605038
+Average Daily Return: 0.00127961501334
+Cumulative Return:  [ 1.32000835]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.0, 0.1, 0.6]
+Sharpe Ratio:  1.31847134338
+Volatility (stdev of daily returns):  0.0111340278181
+Average Daily Return: 0.00092474656463
+Cumulative Return:  [ 1.24109398]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.1, 0.2, 0.5]
+Sharpe Ratio:  1.3005422416
+Volatility (stdev of daily returns):  0.0105603918266
+Average Daily Return: 0.000865175523791
+Cumulative Return:  [ 1.22508937]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.7, 0.3]
+Sharpe Ratio:  0.998244020932
+Volatility (stdev of daily returns):  0.00950721349993
+Average Daily Return: 0.000597846504088
+Cumulative Return:  [ 1.14920957]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.7, 0.1, 0.2]
+Sharpe Ratio:  1.14528458489
+Volatility (stdev of daily returns):  0.0132442273177
+Average Daily Return: 0.000955519976647
+Cumulative Return:  [ 1.24429653]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.3, 0.4, 0.3]
+Sharpe Ratio:  1.16452688639
+Volatility (stdev of daily returns):  0.0102674337999
+Average Daily Return: 0.000753201473384
+Cumulative Return:  [ 1.19308014]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.3, 0.1, 0.1]
+Sharpe Ratio:  1.14601054845
+Volatility (stdev of daily returns):  0.0163100218442
+Average Daily Return: 0.00117745112077
+Cumulative Return:  [ 1.29527683]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.8, 0.0, 0.2, 0.0]
+Sharpe Ratio:  1.06687440461
+Volatility (stdev of daily returns):  0.019327091813
+Average Daily Return: 0.00129891142103
+Cumulative Return:  [ 1.31417982]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.3, 0.1, 0.6]
+Sharpe Ratio:  1.32590931954
+Volatility (stdev of daily returns):  0.0097624875926
+Average Daily Return: 0.000815406272113
+Cumulative Return:  [ 1.21491329]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.3, 0.2, 0.2]
+Sharpe Ratio:  1.18949325245
+Volatility (stdev of daily returns):  0.0134087890624
+Average Daily Return: 0.00100473439854
+Cumulative Return:  [ 1.2558537]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.6, 0.0, 0.0]
+Sharpe Ratio:  1.12334024545
+Volatility (stdev of daily returns):  0.0174466092415
+Average Daily Return: 0.00123458808756
+Cumulative Return:  [ 1.30851927]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.1, 0.0, 0.8]
+Sharpe Ratio:  1.38514235431
+Volatility (stdev of daily returns):  0.00966483956246
+Average Daily Return: 0.000843312985715
+Cumulative Return:  [ 1.22357209]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.0, 0.1, 0.7]
+Sharpe Ratio:  1.34961158655
+Volatility (stdev of daily returns):  0.0100823563332
+Average Daily Return: 0.00085717711954
+Cumulative Return:  [ 1.22502127]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.3, 0.1, 0.5]
+Sharpe Ratio:  1.31850041171
+Volatility (stdev of daily returns):  0.01060706416
+Average Daily Return: 0.000880998553132
+Cumulative Return:  [ 1.230986]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.2, 0.7]
+Sharpe Ratio:  1.30398781156
+Volatility (stdev of daily returns):  0.00893672560777
+Average Daily Return: 0.000734094018278
+Cumulative Return:  [ 1.19294395]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.2, 0.5, 0.3]
+Sharpe Ratio:  1.12726491889
+Volatility (stdev of daily returns):  0.00986426636584
+Average Daily Return: 0.000700471568531
+Cumulative Return:  [ 1.17845662]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.1, 0.3, 0.2]
+Sharpe Ratio:  1.15903909021
+Volatility (stdev of daily returns):  0.0135884450186
+Average Daily Return: 0.00099212769834
+Cumulative Return:  [ 1.24995707]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.6, 0.1, 0.3]
+Sharpe Ratio:  1.19582647144
+Volatility (stdev of daily returns):  0.0121751857359
+Average Daily Return: 0.000917156583388
+Cumulative Return:  [ 1.23695072]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.3, 0.0, 0.3]
+Sharpe Ratio:  1.23138917686
+Volatility (stdev of daily returns):  0.0143746806543
+Average Daily Return: 0.00111504723974
+Cumulative Return:  [ 1.28648184]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.6, 0.1, 0.1]
+Sharpe Ratio:  1.14822531397
+Volatility (stdev of daily returns):  0.0146790561991
+Average Daily Return: 0.00106175662609
+Cumulative Return:  [ 1.26909614]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.6, 0.2, 0.0]
+Sharpe Ratio:  1.10180306435
+Volatility (stdev of daily returns):  0.015075768044
+Average Daily Return: 0.00104636487431
+Cumulative Return:  [ 1.26181842]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.3, 0.3, 0.4]
+Sharpe Ratio:  1.22739549903
+Volatility (stdev of daily returns):  0.00999779357577
+Average Daily Return: 0.000773015890534
+Cumulative Return:  [ 1.20035786]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.0, 0.1, 0.4]
+Sharpe Ratio:  1.22280068958
+Volatility (stdev of daily returns):  0.0138841331354
+Average Daily Return: 0.0010694837103
+Cumulative Return:  [ 1.2732394]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.1, 0.1, 0.4]
+Sharpe Ratio:  1.25147594883
+Volatility (stdev of daily returns):  0.0130344465972
+Average Daily Return: 0.00102757808683
+Cumulative Return:  [ 1.2645125]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.3, 0.1, 0.2]
+Sharpe Ratio:  1.18978773795
+Volatility (stdev of daily returns):  0.0146506098497
+Average Daily Return: 0.00109805709251
+Cumulative Return:  [ 1.27920412]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.2, 0.3, 0.5]
+Sharpe Ratio:  1.25573287795
+Volatility (stdev of daily returns):  0.00937040410474
+Average Daily Return: 0.000741233971664
+Cumulative Return:  [ 1.19301205]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.5, 0.3, 0.0]
+Sharpe Ratio:  1.09445508911
+Volatility (stdev of daily returns):  0.0143583337921
+Average Daily Return: 0.000989923695411
+Cumulative Return:  [ 1.2471949]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.2, 0.1, 0.4]
+Sharpe Ratio:  1.27344520324
+Volatility (stdev of daily returns):  0.0123123827772
+Average Daily Return: 0.000987693282844
+Cumulative Return:  [ 1.2557856]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.2, 0.1, 0.5]
+Sharpe Ratio:  1.3198660591
+Volatility (stdev of daily returns):  0.011029511294
+Average Daily Return: 0.000917034891911
+Cumulative Return:  [ 1.2397129]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.4, 0.1, 0.4]
+Sharpe Ratio:  1.27579245419
+Volatility (stdev of daily returns):  0.0113771799191
+Average Daily Return: 0.000914354033073
+Cumulative Return:  [ 1.23833181]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.1, 0.6, 0.0]
+Sharpe Ratio:  1.03228105109
+Volatility (stdev of daily returns):  0.0133302635425
+Average Daily Return: 0.000866834964382
+Cumulative Return:  [ 1.21205122]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.0, 0.4, 0.0]
+Sharpe Ratio:  1.05514294564
+Volatility (stdev of daily returns):  0.0165673195064
+Average Daily Return: 0.001101192582
+Cumulative Return:  [ 1.26747897]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.1, 0.1, 0.5]
+Sharpe Ratio:  1.30200356047
+Volatility (stdev of daily returns):  0.0116465175716
+Average Daily Return: 0.00095523007535
+Cumulative Return:  [ 1.24843979]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.3, 0.2, 0.5]
+Sharpe Ratio:  1.28190536871
+Volatility (stdev of daily returns):  0.00982966343227
+Average Daily Return: 0.00079376938375
+Cumulative Return:  [ 1.20763557]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.0, 0.3, 0.5]
+Sharpe Ratio:  1.2654874949
+Volatility (stdev of daily returns):  0.0102137536382
+Average Daily Return: 0.000814222249531
+Cumulative Return:  [ 1.21046585]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.5, 0.0, 0.5]
+Sharpe Ratio:  1.28952577506
+Volatility (stdev of daily returns):  0.011098955039
+Average Daily Return: 0.000901595735722
+Cumulative Return:  [ 1.23688262]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.8, 0.0, 0.1]
+Sharpe Ratio:  1.12636164264
+Volatility (stdev of daily returns):  0.0153050893742
+Average Daily Return: 0.00108595905796
+Cumulative Return:  [ 1.27499276]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.6, 0.4]
+Sharpe Ratio:  1.07220114251
+Volatility (stdev of daily returns):  0.00914814483162
+Average Daily Return: 0.000617886955795
+Cumulative Return:  [ 1.15648728]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.3, 0.4, 0.2]
+Sharpe Ratio:  1.15101830882
+Volatility (stdev of daily returns):  0.0113480651676
+Average Daily Return: 0.000822817997732
+Cumulative Return:  [ 1.20915285]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.2, 0.2, 0.2]
+Sharpe Ratio:  1.17804033121
+Volatility (stdev of daily returns):  0.0140763991424
+Average Daily Return: 0.00104460346409
+Cumulative Return:  [ 1.2645806]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.7, 0.2]
+Sharpe Ratio:  1.01821688035
+Volatility (stdev of daily returns):  0.0103960032638
+Average Daily Return: 0.000666816640898
+Cumulative Return:  [ 1.16528228]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.2, 0.6, 0.0]
+Sharpe Ratio:  1.03194844917
+Volatility (stdev of daily returns):  0.0127190445562
+Average Daily Return: 0.000826822375547
+Cumulative Return:  [ 1.20332432]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.3, 0.5, 0.2]
+Sharpe Ratio:  1.09603418988
+Volatility (stdev of daily returns):  0.0106365371404
+Average Daily Return: 0.000734385498175
+Cumulative Return:  [ 1.18580243]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.5, 0.5]
+Sharpe Ratio:  1.13984255038
+Volatility (stdev of daily returns):  0.00889764753901
+Average Daily Return: 0.00063888073562
+Cumulative Return:  [ 1.163765]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.2, 0.4, 0.0]
+Sharpe Ratio:  1.08096226671
+Volatility (stdev of daily returns):  0.014883698431
+Average Daily Return: 0.00101349386881
+Cumulative Return:  [ 1.25002517]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.5, 0.4, 0.1]
+Sharpe Ratio:  1.07883379363
+Volatility (stdev of daily returns):  0.0121460757463
+Average Daily Return: 0.000825449020867
+Cumulative Return:  [ 1.20777176]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.1, 0.1, 0.2]
+Sharpe Ratio:  1.15613943881
+Volatility (stdev of daily returns):  0.0162354063656
+Average Daily Return: 0.00118242365448
+Cumulative Return:  [ 1.29665792]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 0.1, 0.9]
+Sharpe Ratio:  1.29261132312
+Volatility (stdev of daily returns):  0.00898116516426
+Average Daily Return: 0.000731308074799
+Cumulative Return:  [ 1.19287586]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.1, 0.1, 0.3]
+Sharpe Ratio:  1.20147196799
+Volatility (stdev of daily returns):  0.0145771335186
+Average Daily Return: 0.00110327938627
+Cumulative Return:  [ 1.28058521]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.2, 0.4, 0.1, 0.3]
+Sharpe Ratio:  1.2399953807
+Volatility (stdev of daily returns):  0.0126090212494
+Average Daily Return: 0.000984920492397
+Cumulative Return:  [ 1.25440452]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.0, 0.2, 0.4]
+Sharpe Ratio:  1.22978400385
+Volatility (stdev of daily returns):  0.012601998405
+Average Daily Return: 0.000976265606811
+Cumulative Return:  [ 1.24988898]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.0, 0.0, 0.9]
+Sharpe Ratio:  1.363229308
+Volatility (stdev of daily returns):  0.00950879627735
+Average Daily Return: 0.000816571441347
+Cumulative Return:  [ 1.21622628]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.3, 0.1, 0.3, 0.3]
+Sharpe Ratio:  1.20554879242
+Volatility (stdev of daily returns):  0.0120733803848
+Average Daily Return: 0.000916881913178
+Cumulative Return:  [ 1.23388437]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.0, 0.0, 0.6]
+Sharpe Ratio:  1.30876387796
+Volatility (stdev of daily returns):  0.0123183716524
+Average Daily Return: 0.00101558045073
+Cumulative Return:  [ 1.26444441]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.4, 0.5, 0.1]
+Sharpe Ratio:  1.05751712311
+Volatility (stdev of daily returns):  0.0115666140494
+Average Daily Return: 0.000770536795009
+Cumulative Return:  [ 1.19314824]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.5, 0.1, 0.0]
+Sharpe Ratio:  1.11924955773
+Volatility (stdev of daily returns):  0.0167042368893
+Average Daily Return: 0.00117775051094
+Cumulative Return:  [ 1.29389575]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.7, 0.0, 0.2]
+Sharpe Ratio:  1.17330982517
+Volatility (stdev of daily returns):  0.0141325937506
+Average Daily Return: 0.00104456221523
+Cumulative Return:  [ 1.26764695]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.1, 0.3, 0.6, 0.0]
+Sharpe Ratio:  1.01899262517
+Volatility (stdev of daily returns):  0.0122943055143
+Average Daily Return: 0.000789177639777
+Cumulative Return:  [ 1.19459742]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.9, 0.0, 0.0, 0.1]
+Sharpe Ratio:  1.09933018674
+Volatility (stdev of daily returns):  0.0203896420469
+Average Daily Return: 0.00141200906432
+Cumulative Return:  [ 1.34480795]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.6, 0.0, 0.1, 0.3]
+Sharpe Ratio:  1.17627829752
+Volatility (stdev of daily returns):  0.0154768017832
+Average Daily Return: 0.00114680884635
+Cumulative Return:  [ 1.28931211]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.0, 1.0, 0.0]
+Sharpe Ratio:  0.773050423201
+Volatility (stdev of daily returns):  0.0111723922721
+Average Daily Return: 0.000544068682116
+Cumulative Return:  [ 1.12737643]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.5, 0.3, 0.2, 0.0]
+Sharpe Ratio:  1.10536449608
+Volatility (stdev of daily returns):  0.0167040001624
+Average Daily Return: 0.00116312322105
+Cumulative Return:  [ 1.28799912]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.4, 0.6, 0.0]
+Sharpe Ratio:  0.9904247346
+Volatility (stdev of daily returns):  0.0120853634728
+Average Daily Return: 0.000754016629101
+Cumulative Return:  [ 1.18587053]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.0, 0.6, 0.0]
+Sharpe Ratio:  1.02380831735
+Volatility (stdev of daily returns):  0.0140960219379
+Average Daily Return: 0.000909106891567
+Cumulative Return:  [ 1.22077812]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.0, 0.3, 0.3]
+Sharpe Ratio:  1.1824699226
+Volatility (stdev of daily returns):  0.0128604559549
+Average Daily Return: 0.000957957404764
+Cumulative Return:  [ 1.24261126]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.4, 0.0, 0.2]
+Sharpe Ratio:  1.19568318498
+Volatility (stdev of daily returns):  0.0153011515673
+Average Daily Return: 0.00115249743765
+Cumulative Return:  [ 1.29382765]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.2, 0.6, 0.2]
+Sharpe Ratio:  1.05391127946
+Volatility (stdev of daily returns):  0.0102660456028
+Average Daily Return: 0.000681564515093
+Cumulative Return:  [ 1.1711789]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.4, 0.0, 0.1, 0.5]
+Sharpe Ratio:  1.27221387659
+Volatility (stdev of daily returns):  0.0124215940863
+Average Daily Return: 0.000995490663327
+Cumulative Return:  [ 1.25716669]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.1, 0.8]
+Sharpe Ratio:  1.33115645389
+Volatility (stdev of daily returns):  0.00903400399978
+Average Daily Return: 0.000757546175921
+Cumulative Return:  [ 1.20022167]
+----------------------------------------------------------------
+Start Date:  2010-01-01 00:00:00
+End Date:  2010-12-31 00:00:00
+Symbols:  ['BRCM', 'TXN', 'IBM', 'HNZ']
+Optimal Allocations:  [0.0, 0.1, 0.6, 0.3]
+Sharpe Ratio:  1.07193030849
+Volatility (stdev of daily returns):  0.00960661113704
+Average Daily Return: 0.000648688937403
+Cumulative Return:  [ 1.16383309]
+----------------------------------------------------------------
+the best allocation for ['BRCM', 'TXN', 'IBM', 'HNZ'] : [0.1, 0.1, 0.0, 0.8]
+its corresponding sharpe ratio is 1.385142
+
+Process finished with exit code 0
