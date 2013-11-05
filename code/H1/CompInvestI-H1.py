@@ -124,8 +124,8 @@ def simulate(startDate, endDate, symbolArray, allocationsArray):
     for row in xrange(len(allocatedClosingPrices)):
         dailyValueOfPortfolio[row-1] = Numpy.sum(allocatedClosingPrices[row-1,:])
 
-    #print "dailyValueOfPortfolio"
-    #print dailyValueOfPortfolio
+    print "dailyValueOfPortfolio",
+    print dailyValueOfPortfolio
 
 
     backupOfDailyValueOfPortfolio = Numpy.array(dailyValueOfPortfolio.copy(), dtype=float)
